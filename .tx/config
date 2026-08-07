@@ -271,6 +271,15 @@ resource_name          = chapters--preferences--library
 replace_edited_strings = false
 keep_translations      = false
 
+[o:mixxx-dj-software:p:mixxx-dj-manual-27:r:chapters--preferences--mixer]
+file_filter            = source/locale/<lang>/LC_MESSAGES/chapters/preferences/mixer.po
+source_file            = source/locale/pot/chapters/preferences/mixer.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = chapters--preferences--mixer
+replace_edited_strings = false
+keep_translations      = false
+
 [o:mixxx-dj-software:p:mixxx-dj-manual-27:r:chapters--preferences--sound_hardware]
 file_filter            = source/locale/<lang>/LC_MESSAGES/chapters/preferences/sound_hardware.po
 source_file            = source/locale/pot/chapters/preferences/sound_hardware.pot
@@ -873,6 +882,15 @@ resource_name          = hardware--controllers--icon_p1_nano
 replace_edited_strings = false
 keep_translations      = false
 
+[o:mixxx-dj-software:p:mixxx-dj-manual-27:r:hardware--controllers--intech_TEK2]
+file_filter            = source/locale/<lang>/LC_MESSAGES/hardware/controllers/intech_TEK2.po
+source_file            = source/locale/pot/hardware/controllers/intech_TEK2.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = hardware--controllers--intech_TEK2
+replace_edited_strings = false
+keep_translations      = false
+
 [o:mixxx-dj-software:p:mixxx-dj-manual-27:r:hardware--controllers--ion_discover_dj]
 file_filter            = source/locale/<lang>/LC_MESSAGES/hardware/controllers/ion_discover_dj.po
 source_file            = source/locale/pot/hardware/controllers/ion_discover_dj.pot
@@ -1110,6 +1128,15 @@ resource_name          = hardware--controllers--native_instruments_traktor_kontr
 replace_edited_strings = false
 keep_translations      = false
 
+[o:mixxx-dj-software:p:mixxx-dj-manual-27:r:hardware--controllers--native_instruments_traktor_mx2]
+file_filter            = source/locale/<lang>/LC_MESSAGES/hardware/controllers/native_instruments_traktor_mx2.po
+source_file            = source/locale/pot/hardware/controllers/native_instruments_traktor_mx2.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = hardware--controllers--native_instruments_traktor_mx2
+replace_edited_strings = false
+keep_translations      = false
+
 [o:mixxx-dj-software:p:mixxx-dj-manual-27:r:hardware--controllers--nintendo_wiimote]
 file_filter            = source/locale/<lang>/LC_MESSAGES/hardware/controllers/nintendo_wiimote.po
 source_file            = source/locale/pot/hardware/controllers/nintendo_wiimote.pot
@@ -1200,6 +1227,15 @@ resource_name          = hardware--controllers--numark_idj_live_ii
 replace_edited_strings = false
 keep_translations      = false
 
+[o:mixxx-dj-software:p:mixxx-dj-manual-27:r:hardware--controllers--numark_mixstream_pro]
+file_filter            = source/locale/<lang>/LC_MESSAGES/hardware/controllers/numark_mixstream_pro.po
+source_file            = source/locale/pot/hardware/controllers/numark_mixstream_pro.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = hardware--controllers--numark_mixstream_pro
+replace_edited_strings = false
+keep_translations      = false
+
 [o:mixxx-dj-software:p:mixxx-dj-manual-27:r:hardware--controllers--numark_mixtrack]
 file_filter            = source/locale/<lang>/LC_MESSAGES/hardware/controllers/numark_mixtrack.po
 source_file            = source/locale/pot/hardware/controllers/numark_mixtrack.pot
@@ -1276,6 +1312,15 @@ source_lang            = en
 type                   = PO
 minimum_perc           = 0
 resource_name          = hardware--controllers--numark_n4
+replace_edited_strings = false
+keep_translations      = false
+
+[o:mixxx-dj-software:p:mixxx-dj-manual-27:r:hardware--controllers--numark_ns4fx]
+file_filter            = source/locale/<lang>/LC_MESSAGES/hardware/controllers/numark_ns4fx.po
+source_file            = source/locale/pot/hardware/controllers/numark_ns4fx.pot
+type                   = PO
+minimum_perc           = 0
+resource_name          = hardware--controllers--numark_ns4fx
 replace_edited_strings = false
 keep_translations      = false
 

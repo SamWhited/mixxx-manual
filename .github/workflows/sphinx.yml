@@ -12,13 +12,17 @@ jobs:
     - name: Clone repository
       uses: actions/checkout@v7
     - name: Set up Python
-      uses: actions/setup-python@v6
+      uses: actions/setup-python@v7
       with:
         python-version: '3.13'
     - name: Install Python dependencies
       run: |
         python -m pip install --upgrade pip
         python -m pip install -r requirements.txt
+    - name: Patch linuxdoc
+      run: >
+        python -c "import linuxdoc; print(linuxdoc.__path__[0])"
+        | xargs -I{} patch -d {} -p1 -N -i patches/linuxdoc-rstFlatTable.patch || true
     - name: Check for broken links
       run: sphinx-build -q --color -b linkcheck source build
 
@@ -31,13 +35,17 @@ jobs:
     - name: Set up Graphviz
       run: sudo apt update && sudo apt install -y graphviz
     - name: Set up Python
-      uses: actions/setup-python@v6
+      uses: actions/setup-python@v7
       with:
         python-version: '3.13'
     - name: Install Python dependencies
       run: |
         python -m pip install --upgrade pip
         python -m pip install -r requirements.txt
+    - name: Patch linuxdoc
+      run: >
+        python -c "import linuxdoc; print(linuxdoc.__path__[0])"
+        | xargs -I{} patch -d {} -p1 -N -i patches/linuxdoc-rstFlatTable.patch || true
     - name: Load problem matcher
       uses: ammaraskar/sphinx-problem-matcher@master
     - name: Check for build issues

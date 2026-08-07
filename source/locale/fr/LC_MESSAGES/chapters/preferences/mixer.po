@@ -4,16 +4,15 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# 8dfc7d5c6529ab0de7d4a3c6faf92212_2ce1751, 2026
 # Daniel Schürmann <daschuer@mixxx.org>, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Mixxx 2.5\n"
+"Project-Id-Version: Mixxx 2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-19 14:59+0200\n"
-"PO-Revision-Date: 2026-06-19 13:01+0000\n"
+"POT-Creation-Date: 2026-07-01 00:12+0200\n"
+"PO-Revision-Date: 2026-07-01 20:14+0000\n"
 "Last-Translator: Daniel Schürmann <daschuer@mixxx.org>, 2026\n"
 "Language-Team: French (https://app.transifex.com/mixxx-dj-software/teams/7734/fr/)\n"
 "MIME-Version: 1.0\n"
