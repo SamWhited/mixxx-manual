@@ -1,19 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2011-2024, The Mixxx Development Team
+# Copyright (C) 2011-2026, The Mixxx Development Team
 # This file is distributed under the same license as the Mixxx package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
 # Daniel Schürmann <daschuer@mixxx.org>, 2025
+# 重音 ミク, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Mixxx 2.7\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-28 07:46+0200\n"
+"POT-Creation-Date: 2026-08-07 18:13+0200\n"
 "PO-Revision-Date: 2025-04-17 19:24+0000\n"
-"Last-Translator: Daniel Schürmann <daschuer@mixxx.org>, 2025\n"
+"Last-Translator: 重音 ミク, 2026\n"
 "Language-Team: Chinese (Taiwan) (https://app.transifex.com/mixxx-dj-software/teams/7734/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -63,159 +64,159 @@ msgstr "库 - 媒体库图标"
 
 #: ../../shortcuts.rstext:64
 msgid "Library - Icon Locked"
-msgstr ""
+msgstr "Library - 锁定图标"
 
 #: ../../shortcuts.rstext:70
 msgid "Library - Icon Missing Tracks"
-msgstr ""
+msgstr "库 - 缺失曲目图标"
 
 #: ../../shortcuts.rstext:76
 msgid "Library - Icon Playlist"
-msgstr ""
+msgstr "库 - 播放列表图标"
 
 #: ../../shortcuts.rstext:82
 msgid "Library - Icon Analyze"
-msgstr ""
+msgstr "库 - 分析图标"
 
 #: ../../shortcuts.rstext:88
 msgid "Library - Icon Recordings"
-msgstr ""
+msgstr "库 - 录音图标"
 
 #: ../../shortcuts.rstext:94
 msgid "Library - Icon Rhythmbox"
-msgstr ""
+msgstr "库 - Rhythmbox 图标"
 
 #: ../../shortcuts.rstext:100
 msgid "Library - Icon Serato"
-msgstr ""
+msgstr "库 - Serato 图标"
 
 #: ../../shortcuts.rstext:106
 msgid "Library - Icon Traktor"
-msgstr ""
+msgstr "库 - Traktor 图标"
 
 #: ../../shortcuts.rstext:112
 msgid "Library - Preview Pause"
-msgstr ""
+msgstr "库 - 试听暂停"
 
 #: ../../shortcuts.rstext:118
 msgid "Library - Preview Play"
-msgstr ""
+msgstr "库 - 试听播放"
 
 #: ../../shortcuts.rstext:124
 msgid "Library - BPM Locked"
-msgstr ""
+msgstr "库 - BPM 已锁定"
 
 #: ../../shortcuts.rstext:130
 msgid "Library - BPM Unlocked"
-msgstr ""
+msgstr "库 - BPM 已解锁"
 
 #: ../../shortcuts.rstext:139
 msgid "Preferences - Icon BPM Detection"
-msgstr ""
+msgstr "设置 - BPM 检测图标"
 
 #: ../../shortcuts.rstext:145
 msgid "Preferences - Icon Live Broadcasting"
-msgstr ""
+msgstr "设置 - 直播图标"
 
 #: ../../shortcuts.rstext:151
 msgid "Preferences - Icon Controllers"
-msgstr ""
+msgstr "设置 - 控制器图标"
 
 #: ../../shortcuts.rstext:157
 msgid "Preferences - Icon Crossfader"
-msgstr ""
+msgstr "设置 - 交叉推子图标"
 
 #: ../../shortcuts.rstext:163
 msgid "Preferences - Icon Effects"
-msgstr ""
+msgstr "设置 - 效果图标"
 
 #: ../../shortcuts.rstext:169
 msgid "Preferences - Icon Equalizers"
-msgstr ""
+msgstr "设置 - 均衡器图标"
 
 #: ../../shortcuts.rstext:175
 msgid "Preferences - Icon Interface"
-msgstr ""
+msgstr "设置 - 界面图标"
 
 #: ../../shortcuts.rstext:181
 msgid "Preferences - Icon Key Detection"
-msgstr ""
+msgstr "设置 - 调性检测图标"
 
 #: ../../shortcuts.rstext:187
 msgid "Preferences - Icon Library"
-msgstr ""
+msgstr "设置 - 资料库图标"
 
 #: ../../shortcuts.rstext:193
 msgid "Preferences - Icon MIDI Controllers"
-msgstr ""
+msgstr "设置 - MIDI 控制器图标"
 
 #: ../../shortcuts.rstext:199
 msgid "Preferences - Icon Modplug Decoder"
-msgstr ""
+msgstr "设置 - Modplug 解码器图标"
 
 #: ../../shortcuts.rstext:205
 msgid "Preferences - Icon Recording"
-msgstr ""
+msgstr "设置 - 录音图标"
 
 #: ../../shortcuts.rstext:211
 msgid "Preferences - Icon ReplayGain"
-msgstr ""
+msgstr "设置 - ReplayGain 图标"
 
 #: ../../shortcuts.rstext:217
 msgid "Preferences - Icon Sampler"
-msgstr ""
+msgstr "设置 - 采样器图标"
 
 #: ../../shortcuts.rstext:223
 msgid "Preferences - Icon Sound Hardware"
-msgstr ""
+msgstr "设置 - 音频硬件图标"
 
 #: ../../shortcuts.rstext:229
 msgid "Preferences - Icon Vinyl Control"
-msgstr ""
+msgstr "设置 - 黑胶控制图标"
 
 #: ../../shortcuts.rstext:238
 msgid "Vinyl Control - Receives good signal"
-msgstr ""
+msgstr "黑胶控制 - 信号良好"
 
 #: ../../shortcuts.rstext:242
 msgid "Vinyl Control - Signal goes in wrong direction"
-msgstr ""
+msgstr "黑胶控制 - 信号方向错误"
 
 #: ../../shortcuts.rstext:246
 msgid "Vinyl Control - Receives no signal"
-msgstr ""
+msgstr "黑胶控制 - 无信号"
 
 #: ../../shortcuts.rstext:250
 msgid "Vinyl Control - Receives bad signal"
-msgstr ""
+msgstr "黑胶控制 - 信号质量差"
 
 #: ../../shortcuts.rstext:254
 msgid "Vinyl Control - No input configured"
-msgstr ""
+msgstr "黑胶控制 - 未配置输入"
 
 #: ../../shortcuts.rstext:258
 msgid "Vinyl Control - Receives no timecode signal"
-msgstr ""
+msgstr "黑胶控制 - 未接收到时码信号"
 
 #: ../../shortcuts.rstext:262
 msgid "Vinyl Control - Receives signal from wrong vinyl type"
-msgstr ""
+msgstr "黑胶控制 - 接收到错误类型黑胶的信号"
 
 #: ../../shortcuts.rstext:266
 msgid "Vinyl Control - Receives mono signal"
-msgstr ""
+msgstr "黑胶控制 - 接收到单声道信号"
 
 #: ../../shortcuts.rstext:270
 msgid "Vinyl Control - Receives too loud input signal"
-msgstr ""
+msgstr "黑胶控制 - 输入信号过强"
 
 #: ../../shortcuts.rstext:274
 msgid "Vinyl Control - Receives too quiet signal"
-msgstr ""
+msgstr "黑胶控制 - 输入信号过弱"
 
 #: ../../shortcuts.rstext:281
 msgid "logo"
-msgstr ""
+msgstr "徽标"
 
 #: ../../chapters/preferences.rst:6
 msgid "Preferences"

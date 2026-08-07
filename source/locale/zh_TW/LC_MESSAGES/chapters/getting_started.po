@@ -1,19 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2011-2024, The Mixxx Development Team
+# Copyright (C) 2011-2026, The Mixxx Development Team
 # This file is distributed under the same license as the Mixxx package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
 # Daniel Schürmann <daschuer@mixxx.org>, 2025
+# 重音 ミク, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Mixxx 2.7\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-28 07:46+0200\n"
+"POT-Creation-Date: 2026-08-07 18:13+0200\n"
 "PO-Revision-Date: 2025-04-17 19:24+0000\n"
-"Last-Translator: Daniel Schürmann <daschuer@mixxx.org>, 2025\n"
+"Last-Translator: 重音 ミク, 2026\n"
 "Language-Team: Chinese (Taiwan) (https://app.transifex.com/mixxx-dj-software/teams/7734/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -63,173 +64,173 @@ msgstr "库 - 媒体库图标"
 
 #: ../../shortcuts.rstext:64
 msgid "Library - Icon Locked"
-msgstr ""
+msgstr "Library - 锁定图标"
 
 #: ../../shortcuts.rstext:70
 msgid "Library - Icon Missing Tracks"
-msgstr ""
+msgstr "库 - 缺失曲目图标"
 
 #: ../../shortcuts.rstext:76
 msgid "Library - Icon Playlist"
-msgstr ""
+msgstr "库 - 播放列表图标"
 
 #: ../../shortcuts.rstext:82
 msgid "Library - Icon Analyze"
-msgstr ""
+msgstr "库 - 分析图标"
 
 #: ../../shortcuts.rstext:88
 msgid "Library - Icon Recordings"
-msgstr ""
+msgstr "库 - 录音图标"
 
 #: ../../shortcuts.rstext:94
 msgid "Library - Icon Rhythmbox"
-msgstr ""
+msgstr "库 - Rhythmbox 图标"
 
 #: ../../shortcuts.rstext:100
 msgid "Library - Icon Serato"
-msgstr ""
+msgstr "库 - Serato 图标"
 
 #: ../../shortcuts.rstext:106
 msgid "Library - Icon Traktor"
-msgstr ""
+msgstr "库 - Traktor 图标"
 
 #: ../../shortcuts.rstext:112
 msgid "Library - Preview Pause"
-msgstr ""
+msgstr "库 - 试听暂停"
 
 #: ../../shortcuts.rstext:118
 msgid "Library - Preview Play"
-msgstr ""
+msgstr "库 - 试听播放"
 
 #: ../../shortcuts.rstext:124
 msgid "Library - BPM Locked"
-msgstr ""
+msgstr "库 - BPM 已锁定"
 
 #: ../../shortcuts.rstext:130
 msgid "Library - BPM Unlocked"
-msgstr ""
+msgstr "库 - BPM 已解锁"
 
 #: ../../shortcuts.rstext:139
 msgid "Preferences - Icon BPM Detection"
-msgstr ""
+msgstr "设置 - BPM 检测图标"
 
 #: ../../shortcuts.rstext:145
 msgid "Preferences - Icon Live Broadcasting"
-msgstr ""
+msgstr "设置 - 直播图标"
 
 #: ../../shortcuts.rstext:151
 msgid "Preferences - Icon Controllers"
-msgstr ""
+msgstr "设置 - 控制器图标"
 
 #: ../../shortcuts.rstext:157
 msgid "Preferences - Icon Crossfader"
-msgstr ""
+msgstr "设置 - 交叉推子图标"
 
 #: ../../shortcuts.rstext:163
 msgid "Preferences - Icon Effects"
-msgstr ""
+msgstr "设置 - 效果图标"
 
 #: ../../shortcuts.rstext:169
 msgid "Preferences - Icon Equalizers"
-msgstr ""
+msgstr "设置 - 均衡器图标"
 
 #: ../../shortcuts.rstext:175
 msgid "Preferences - Icon Interface"
-msgstr ""
+msgstr "设置 - 界面图标"
 
 #: ../../shortcuts.rstext:181
 msgid "Preferences - Icon Key Detection"
-msgstr ""
+msgstr "设置 - 调性检测图标"
 
 #: ../../shortcuts.rstext:187
 msgid "Preferences - Icon Library"
-msgstr ""
+msgstr "设置 - 资料库图标"
 
 #: ../../shortcuts.rstext:193
 msgid "Preferences - Icon MIDI Controllers"
-msgstr ""
+msgstr "设置 - MIDI 控制器图标"
 
 #: ../../shortcuts.rstext:199
 msgid "Preferences - Icon Modplug Decoder"
-msgstr ""
+msgstr "设置 - Modplug 解码器图标"
 
 #: ../../shortcuts.rstext:205
 msgid "Preferences - Icon Recording"
-msgstr ""
+msgstr "设置 - 录音图标"
 
 #: ../../shortcuts.rstext:211
 msgid "Preferences - Icon ReplayGain"
-msgstr ""
+msgstr "设置 - ReplayGain 图标"
 
 #: ../../shortcuts.rstext:217
 msgid "Preferences - Icon Sampler"
-msgstr ""
+msgstr "设置 - 采样器图标"
 
 #: ../../shortcuts.rstext:223
 msgid "Preferences - Icon Sound Hardware"
-msgstr ""
+msgstr "设置 - 音频硬件图标"
 
 #: ../../shortcuts.rstext:229
 msgid "Preferences - Icon Vinyl Control"
-msgstr ""
+msgstr "设置 - 黑胶控制图标"
 
 #: ../../shortcuts.rstext:238
 msgid "Vinyl Control - Receives good signal"
-msgstr ""
+msgstr "黑胶控制 - 信号良好"
 
 #: ../../shortcuts.rstext:242
 msgid "Vinyl Control - Signal goes in wrong direction"
-msgstr ""
+msgstr "黑胶控制 - 信号方向错误"
 
 #: ../../shortcuts.rstext:246
 msgid "Vinyl Control - Receives no signal"
-msgstr ""
+msgstr "黑胶控制 - 无信号"
 
 #: ../../shortcuts.rstext:250
 msgid "Vinyl Control - Receives bad signal"
-msgstr ""
+msgstr "黑胶控制 - 信号质量差"
 
 #: ../../shortcuts.rstext:254
 msgid "Vinyl Control - No input configured"
-msgstr ""
+msgstr "黑胶控制 - 未配置输入"
 
 #: ../../shortcuts.rstext:258
 msgid "Vinyl Control - Receives no timecode signal"
-msgstr ""
+msgstr "黑胶控制 - 未接收到时码信号"
 
 #: ../../shortcuts.rstext:262
 msgid "Vinyl Control - Receives signal from wrong vinyl type"
-msgstr ""
+msgstr "黑胶控制 - 接收到错误类型黑胶的信号"
 
 #: ../../shortcuts.rstext:266
 msgid "Vinyl Control - Receives mono signal"
-msgstr ""
+msgstr "黑胶控制 - 接收到单声道信号"
 
 #: ../../shortcuts.rstext:270
 msgid "Vinyl Control - Receives too loud input signal"
-msgstr ""
+msgstr "黑胶控制 - 输入信号过强"
 
 #: ../../shortcuts.rstext:274
 msgid "Vinyl Control - Receives too quiet signal"
-msgstr ""
+msgstr "黑胶控制 - 输入信号过弱"
 
 #: ../../shortcuts.rstext:281
 msgid "logo"
-msgstr ""
+msgstr "徽标"
 
 #: ../../chapters/getting_started.rst:6
 msgid "Getting Started"
-msgstr ""
+msgstr "入门指南"
 
 #: ../../chapters/getting_started.rst:9
 msgid "Installing Mixxx"
-msgstr ""
+msgstr "安装 Mixxx"
 
 #: ../../chapters/getting_started.rst:10
 msgid ""
 "After `downloading Mixxx from our Website <https://mixxx.org/download/>`_, "
 "you need to install it on your computer."
-msgstr ""
+msgstr "在`网站上下载 Mixxx <https://mixxx.org/download/>`_安装程序后，您需要进行安装。"
 
 #: ../../chapters/getting_started.rst:14 ../../chapters/getting_started.rst:48
 msgid "**Windows**"
@@ -239,37 +240,37 @@ msgstr "Windows 系统"
 msgid ""
 "Double-click the Mixxx installation file and go through the installation "
 "wizard."
-msgstr ""
+msgstr "双击 Mixxx 安装文件，并按照安装向导完成安装。"
 
 #: ../../chapters/getting_started.rst:18 ../../chapters/getting_started.rst:53
 msgid "**macOS**"
-msgstr ""
+msgstr "**macOS**"
 
 #: ../../chapters/getting_started.rst:17
 msgid ""
 "Double-click the Mixxx .dmg file and drag the Mixxx icon to your "
 "Applications folder."
-msgstr ""
+msgstr "双击 Mixxx 的 .dmg 文件，然后将 Mixxx 图标拖动到“应用程序”文件夹中。"
 
 #: ../../chapters/getting_started.rst:22
 msgid "**Linux**"
-msgstr ""
+msgstr "**Linux**"
 
 #: ../../chapters/getting_started.rst:21
 msgid ""
 "No steps are necessary after you followed the instructions on the download "
 "page."
-msgstr ""
+msgstr "按照下载页面中的说明操作后即可。"
 
 #: ../../chapters/getting_started.rst:25
 msgid "Upgrading Mixxx"
-msgstr ""
+msgstr "更新 Mixxx"
 
 #: ../../chapters/getting_started.rst:30
 msgid ""
 "You may safely install Mixxx on top of any previous version. You don't need "
 "to uninstall the old version."
-msgstr ""
+msgstr "您可以放心地在现有版本之上直接安装 Mixxx，无需先卸载旧版本。"
 
 #: ../../chapters/getting_started.rst:33
 msgid ""
@@ -279,6 +280,8 @@ msgid ""
 "therefore you may want to make a backup of your existing settings just in "
 "case."
 msgstr ""
+"您的设置和音乐库不会被删除或重置，但在启动新版 Mixxx 时可能会进行升级。请注意，我们无法保证新的配置能够在旧版本的 Mixxx "
+"中正常使用，因此建议您备份现有设置，以防万一。"
 
 #: ../../chapters/getting_started.rst:38
 msgid ""
@@ -286,6 +289,8 @@ msgid ""
 "detailed descriptions of the settings files, go to :ref:`appendix-settings-"
 "files`."
 msgstr ""
+"有关各受支持:term:`操作系统 <operating system>`中的文件位置，以及设置文件的详细说明，请参阅 :ref:`appendix-"
+"settings-files`。"
 
 #: ../../chapters/getting_started.rst:41
 msgid "Opening Mixxx"
@@ -295,7 +300,7 @@ msgstr "开启 Mixxx"
 msgid ""
 "|logo| Once you've installed Mixxx, start by opening Mixxx and importing "
 "your music to the Mixxx library."
-msgstr ""
+msgstr "|logo| 安装好 Mixxx 后，首先打开 Mixxx，并将您的音乐导入 Mixxx 音乐库。"
 
 #: ../../chapters/getting_started.rst:46
 msgid ""
@@ -303,6 +308,7 @@ msgid ""
 "Windows start menu and click the Mixxx icon, or perform a search for "
 ":file:`Mixxx.exe`."
 msgstr ""
+"双击桌面上的 Mixxx 图标。或者，打开 Windows 开始菜单并点击 Mixxx 图标，也可以搜索 :file:`Mixxx.exe`。"
 
 #: ../../chapters/getting_started.rst:51
 msgid ""
@@ -310,10 +316,12 @@ msgid ""
 "Alternatively, drag the Mixxx icon to the dock and double-click it there or "
 "search for :command:`mixxx` in Spotlight."
 msgstr ""
+"双击 :file:`应用程序` 文件夹中的 Mixxx 图标。或将 Mixxx 图标拖到程序坞中并双击启动，您也可以在聚焦(Spotlight) 中搜索"
+" :command:`mixxx` 启动。"
 
 #: ../../chapters/getting_started.rst:62
 msgid "**GNU/Linux**"
-msgstr ""
+msgstr "**GNU/Linux**"
 
 #: ../../chapters/getting_started.rst:56
 msgid ""
@@ -325,6 +333,10 @@ msgid ""
 ":command:`pasuspender mixxx`. See :ref:`appendix-command-line-options` for "
 "an overview of Mixxx's command line options."
 msgstr ""
+"点击桌面或应用程序菜单中的 Mixxx 图标，或经由搜索 \\:file:`mixxx`，亦或是在终端中输入 :command:`mixxx` 并按下 "
+"\\:kbd:`Enter` 键启动。若因为其他应用程序通过 PulseAudio 占用了:term:`音频接口`，您可关闭 Mixxx 后使用 "
+"\\:command:`pasuspender mixxx` 命令重新启动。有关 Mixxx 命令行选项的详细信息，请参阅 "
+"\\:ref:`appendix-command-line-options`。"
 
 #: ../../chapters/getting_started.rst:67
 msgid "Importing your audio files"
@@ -332,18 +344,18 @@ msgstr "添加你的音频文件"
 
 #: ../../chapters/getting_started.rst:79
 msgid "Mixxx 1st run - Choose music library directory dialog"
-msgstr ""
+msgstr "Mixxx 首次运行 - 选择曲库目录对话框"
 
 #: ../../chapters/getting_started.rst:79
 msgid "Mixxx running on Windows 10 - Choose music library directory dialog"
-msgstr ""
+msgstr "在 Windows 10 上运行的 Mixxx - 选择曲库目录对话框"
 
 #: ../../chapters/getting_started.rst:81
 msgid ""
 "The first time you run Mixxx, you are asked to select a directory where your"
 " music is stored. By default, the dialog points to a location where music "
 "files are typically held, but you can select any location on your computer."
-msgstr ""
+msgstr "初次运行 Mixxx 时，系统会提示您选择存放音乐的目录。默认情况下，对话框会定位到通常存放音乐文件的位置，但您也可以选择其他目录。"
 
 #: ../../chapters/getting_started.rst:85
 msgid ""
@@ -352,6 +364,8 @@ msgid ""
 "supported music files Mixxx detects will be listed in the :ref:`library-"
 "tracks`."
 msgstr ""
+"点击:guilabel:`选择文件夹`按钮后，Mixxx 将开始扫描你的音乐库。扫描所需时间取决于您曲库的大小。扫描完成后，Mixxx "
+"检测到的所支持的音乐文件都会显示在 \\:ref:`library-tracks` 中。"
 
 #: ../../chapters/getting_started.rst:89
 msgid ""
@@ -360,6 +374,8 @@ msgid ""
 "the menu. If you want to rescan at every launch, select "
 ":menuselection:`Preferences --> Library --> Rescan on startup`."
 msgstr ""
+"若添加或移动了音乐文件需要更新曲库，您可在菜单中选择\\:menuselection:`曲库 --> 重新扫描曲库`。如果希望 Mixxx "
+"每次启动时自动重新扫描，您可在\\:menuselection:`设置 --> 曲库`中启用\\:guilabel:`启动时重新扫描`。"
 
 #: ../../chapters/getting_started.rst:94
 msgid ""
@@ -368,10 +384,12 @@ msgid ""
 "folders. Select a regular folder instead, usually “My Music“, like pictured "
 "above."
 msgstr ""
+"在 Windows 7 和 Windows 8 中，导入对话框默认指向 Windows "
+"的“音乐”库，这是一个特殊用途的虚拟文件夹，**无法**直接使用。请改为选择普通文件夹，通常为“我的音乐”，如上图所示。"
 
 #: ../../chapters/getting_started.rst:102
 msgid "Analyze your library"
-msgstr ""
+msgstr "分析曲库"
 
 #: ../../chapters/getting_started.rst:108
 msgid ""
@@ -381,14 +399,16 @@ msgid ""
 "waveform overviews, detects file corruption, and calculates the :term:`BPM` "
 "values."
 msgstr ""
+"|ic_lib_analyze| 首次将曲目加载到播放器时，Mixxx 会自动进行分析，自动检测:term:`节拍网格`、:term:`调性`和 "
+":term:`ReplayGain` ，同时生成波形概览、检查文件是否损坏，并计算 :term:`BPM`。"
 
 #: ../../chapters/getting_started.rst:111
 msgid "For more information, go to :ref:`configuration-bpm-detection`."
-msgstr ""
+msgstr "有关详细信息，请参阅 :ref:`configuration-bpm-detection`。"
 
 #: ../../chapters/getting_started.rst:114
 msgid "Why you should analyze your audio files"
-msgstr ""
+msgstr "为何要分析音频文件"
 
 #: ../../chapters/getting_started.rst:116
 msgid ""
@@ -401,21 +421,27 @@ msgid ""
 "analysis takes considerable CPU power and might cause skips in the audio ---"
 " things you surely don't need while performing."
 msgstr ""
+"若曲目此前从未在 Mixxx 中播放过，曲库中的 \\:guilabel:`BPM`、\\:guilabel:`时长` 和 "
+"\\:guilabel:`调性` "
+"列将为空或不准确（因为这些值仅会从音频文件的标签中读取，而标签信息本身可能并不正确）。提前生成节拍网格后，您可以检查节拍标记是否准确，避免因节拍网格错误而影响对拍。另外，分析曲目会占用较多"
+" CPU 资源。在演出过程中进行分析可能导致音频卡顿，这显然不是您希望发生的情况。"
 
 #: ../../chapters/getting_started.rst:124
 msgid "How to analyze your audio files"
-msgstr ""
+msgstr "如何分析音频文件"
 
 #: ../../chapters/getting_started.rst:125
 msgid ""
 "Once you have :ref:`imported your music library<getting-started-import-"
 "audio-files>`, press :guilabel:`OK` on the Preferences window."
 msgstr ""
+"完成\\:ref:`导入音乐文件<getting-started-import-audio-"
+"files>`后，在“设置”窗口中点击\\:guilabel:`确定`。"
 
 #: ../../chapters/getting_started.rst:128
 msgid ""
 "Go to the :guilabel:`Analyze` view on the left side panel of the library."
-msgstr ""
+msgstr "在曲库左侧边栏中，切换到\\:guilabel:`分析`视图。"
 
 #: ../../chapters/getting_started.rst:129
 msgid ""
@@ -424,18 +450,20 @@ msgid ""
 "range of tracks. Once they've been highlighted, click the "
 ":guilabel:`Analyze` button on the top right of the library section."
 msgstr ""
+"若要分析指定曲目，请按住 :kbd:`Ctrl` 键选择需要分析的曲目，或按住 :kbd:`Shift` "
+"键选择一些曲目。选中后，点击曲库区域右上角的\\:guilabel:`分析`按钮。"
 
 #: ../../chapters/getting_started.rst:130
 msgid ""
 "To analyze the newly added tracks, toggle the :guilabel:`New` label and then"
 " click :guilabel:`Analyze`."
-msgstr ""
+msgstr "若要分析新添加的曲目，请切换到\\:guilabel:`新曲目`标签，然后点击\\:guilabel:`分析`。"
 
 #: ../../chapters/getting_started.rst:131
 msgid ""
 "To analyze the entire library, toggle the :guilabel:`All` label and then "
 "click :guilabel:`Analyze`."
-msgstr ""
+msgstr "若要分析整个曲库，请切换到\\:guilabel:`全部`标签，然后点击\\:guilabel:`分析`。"
 
 #: ../../chapters/getting_started.rst:132
 msgid ""
@@ -443,16 +471,17 @@ msgid ""
 "top left of the analysis pane - just above the :guilabel:`Preview` and "
 ":guilabel:`Cover Art` column titles of the library."
 msgstr ""
+":guilabel:`新曲目`和:guilabel:`全部`切换按钮位于分析面板左上角，即曲库中:guilabel:`试听`和\\:guilabel:`封面`列标题的上方。"
 
 #: ../../chapters/getting_started.rst:134
 msgid ""
 "While analyzing, the progress in percentage and total queue length are "
 "shown."
-msgstr ""
+msgstr "分析过程中会显示当前进度百分比和歌曲队列总长度。"
 
 #: ../../chapters/getting_started.rst:139
 msgid "Configuring sound input and output"
-msgstr ""
+msgstr "配置声音输入和输出"
 
 #: ../../chapters/getting_started.rst:141
 msgid ""
@@ -460,6 +489,8 @@ msgid ""
 "sound hardware in :menuselection:`Preferences --> Sound Hardware`. You do "
 "not need to configure all inputs and outputs."
 msgstr ""
+"在开始使用 Mixxx 之前，您需要在 :menuselection:`设置 --> 声音硬件` 中配置 Mixxx "
+"使用的声音硬件。您无需配置所有输入和输出项。"
 
 #: ../../chapters/getting_started.rst:145
 msgid ""
@@ -468,6 +499,8 @@ msgid ""
 "best it can on your system, configure the other :ref:`preferences-sound-"
 "hardware` preferences in addition to the inputs and outputs."
 msgstr ""
+":ref:`hardware` 一章李介绍了不同类型的 DJ 硬件，以及如何设置不同的输入和输出选项。为了让 Mixxx "
+"在您的系统上发挥最佳性能，除了配置输入和输出外，还建议配置其他 :ref:`preferences-sound-hardware` 设置。"
 
 #: ../../chapters/getting_started.rst:157
 msgid "Mixxx Sound Hardware Preferences"
@@ -475,12 +508,12 @@ msgstr "Mixxx 声音设备设置"
 
 #: ../../chapters/getting_started.rst:160
 msgid "Output Options"
-msgstr ""
+msgstr "输出选项"
 
 #: ../../chapters/getting_started.rst:162
 #: ../../chapters/getting_started.rst:182
 msgid "**Internal mixing**:"
-msgstr ""
+msgstr "**内部混音**："
 
 #: ../../chapters/getting_started.rst:164
 msgid ""
@@ -488,55 +521,56 @@ msgid ""
 "<hardware-mixers>`. If you are using a controller with a built-in audio "
 "interface, use these outputs."
 msgstr ""
+"如果您没有:ref:`外置混音器 <hardware-mixers>`，则无须使用这些输出。如果您使用的是带内置音频接口的控制器，则请使用这些输出。"
 
 #: ../../chapters/getting_started.rst:168
 msgid ""
 "*Main*: all decks, samplers, microphones, and auxiliary inputs mixed "
 "together. This output is sent to the speakers for the audience."
-msgstr ""
+msgstr "*主输出*：混合所有唱盘、采样器、麦克风和辅助输入的声音。此输出会发送到听众使用的扬声器。"
 
 #: ../../chapters/getting_started.rst:170
 msgid ""
 "*Headphones*: all decks, samplers, microphones, and auxiliary inputs "
 "assigned to :term:`pre-fader listening <PFL>`"
-msgstr ""
+msgstr "*耳机*：分配到:term:`推子前监听 <PFL>`的所有唱盘、采样器、麦克风和辅助输入。"
 
 #: ../../chapters/getting_started.rst:172
 msgid "*Booth*: same as main output, but has a separate gain control"
-msgstr ""
+msgstr "*监听输出*：与主输出相同，但具有独立的增益控制。"
 
 #: ../../chapters/getting_started.rst:174
 #: ../../chapters/getting_started.rst:190
 msgid "**External mixing**:"
-msgstr ""
+msgstr "**外部混音**："
 
 #: ../../chapters/getting_started.rst:176
 msgid "*Decks 1-4*: the individual unmixed decks to send to an external mixer"
-msgstr ""
+msgstr "*唱盘 1-4*：发送到外置混音器的各个未混音唱盘输出。"
 
 #: ../../chapters/getting_started.rst:177
 msgid ""
 "*Bus Left/Center/Right*: all decks, samplers, and auxiliary inputs assigned "
 "to each side of Mixxx's :term:`crossfader`"
-msgstr ""
+msgstr "*左/中/右总线*：分配到 Mixxx :term:`交叉渐变器 <crossfader>`侧边的所有唱盘、采样器和辅助输入。"
 
 #: ../../chapters/getting_started.rst:181
 msgid "Input Options"
-msgstr ""
+msgstr "输入选项"
 
 #: ../../chapters/getting_started.rst:184
 msgid ""
 "Use these inputs if you are not using an external hardware mixer. If you are"
 " using a controller with a built-in audio interface, use these inputs."
-msgstr ""
+msgstr "如果您未没有外置混音器硬件或使用的是带内置音频接口的控制器，则请使用这些输入。"
 
 #: ../../chapters/getting_started.rst:187
 msgid "*Microphone 1-4*: live microphone or musical instrument inputs"
-msgstr ""
+msgstr "*麦克风 1-4*：实时麦克风或乐器输入。"
 
 #: ../../chapters/getting_started.rst:188
 msgid "*Auxiliary 1-4*: other sound sources"
-msgstr ""
+msgstr "*辅助输入 1-4*：其他音源。"
 
 #: ../../chapters/getting_started.rst:192
 msgid ""
@@ -545,17 +579,19 @@ msgid ""
 " you have a microphone plugged into the mixer, do not configure the "
 "Microphone 1-4 inputs."
 msgstr ""
+"*录制/广播*：配置此选项后，Mixxx 会从此音频接口输入进行录音和广播，而不是非内部主输出混音。若麦克风已连接到混音器，则请勿配置麦克风 1-4 "
+"输入。"
 
 #: ../../chapters/getting_started.rst:197
 msgid "**Either internal or external mixing**:"
-msgstr ""
+msgstr "**内部或外部混音均可**："
 
 #: ../../chapters/getting_started.rst:199
 msgid ""
 "*Vinyl Control 1-4*: timecode input from turntables or CDJs for manipulating"
 " decks 1-4"
-msgstr ""
+msgstr "*黑胶控制 1-4*：来自唱机或 CDJ 的时间码输入，用于控制唱盘 1-4。"
 
 #: ../../chapters/getting_started.rst:202
 msgid ":ref:`microphones`"
-msgstr ""
+msgstr ":ref:`microphones`"

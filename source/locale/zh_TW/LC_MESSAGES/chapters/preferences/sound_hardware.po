@@ -1,19 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2011-2024, The Mixxx Development Team
+# Copyright (C) 2011-2026, The Mixxx Development Team
 # This file is distributed under the same license as the Mixxx package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
 # Daniel Schürmann <daschuer@mixxx.org>, 2025
+# 重音 ミク, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Mixxx 2.7\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-28 07:46+0200\n"
+"POT-Creation-Date: 2026-08-07 18:13+0200\n"
 "PO-Revision-Date: 2025-04-17 19:24+0000\n"
-"Last-Translator: Daniel Schürmann <daschuer@mixxx.org>, 2025\n"
+"Last-Translator: 重音 ミク, 2026\n"
 "Language-Team: Chinese (Taiwan) (https://app.transifex.com/mixxx-dj-software/teams/7734/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -63,159 +64,159 @@ msgstr "库 - 媒体库图标"
 
 #: ../../shortcuts.rstext:64
 msgid "Library - Icon Locked"
-msgstr ""
+msgstr "Library - 锁定图标"
 
 #: ../../shortcuts.rstext:70
 msgid "Library - Icon Missing Tracks"
-msgstr ""
+msgstr "库 - 缺失曲目图标"
 
 #: ../../shortcuts.rstext:76
 msgid "Library - Icon Playlist"
-msgstr ""
+msgstr "库 - 播放列表图标"
 
 #: ../../shortcuts.rstext:82
 msgid "Library - Icon Analyze"
-msgstr ""
+msgstr "库 - 分析图标"
 
 #: ../../shortcuts.rstext:88
 msgid "Library - Icon Recordings"
-msgstr ""
+msgstr "库 - 录音图标"
 
 #: ../../shortcuts.rstext:94
 msgid "Library - Icon Rhythmbox"
-msgstr ""
+msgstr "库 - Rhythmbox 图标"
 
 #: ../../shortcuts.rstext:100
 msgid "Library - Icon Serato"
-msgstr ""
+msgstr "库 - Serato 图标"
 
 #: ../../shortcuts.rstext:106
 msgid "Library - Icon Traktor"
-msgstr ""
+msgstr "库 - Traktor 图标"
 
 #: ../../shortcuts.rstext:112
 msgid "Library - Preview Pause"
-msgstr ""
+msgstr "库 - 试听暂停"
 
 #: ../../shortcuts.rstext:118
 msgid "Library - Preview Play"
-msgstr ""
+msgstr "库 - 试听播放"
 
 #: ../../shortcuts.rstext:124
 msgid "Library - BPM Locked"
-msgstr ""
+msgstr "库 - BPM 已锁定"
 
 #: ../../shortcuts.rstext:130
 msgid "Library - BPM Unlocked"
-msgstr ""
+msgstr "库 - BPM 已解锁"
 
 #: ../../shortcuts.rstext:139
 msgid "Preferences - Icon BPM Detection"
-msgstr ""
+msgstr "设置 - BPM 检测图标"
 
 #: ../../shortcuts.rstext:145
 msgid "Preferences - Icon Live Broadcasting"
-msgstr ""
+msgstr "设置 - 直播图标"
 
 #: ../../shortcuts.rstext:151
 msgid "Preferences - Icon Controllers"
-msgstr ""
+msgstr "设置 - 控制器图标"
 
 #: ../../shortcuts.rstext:157
 msgid "Preferences - Icon Crossfader"
-msgstr ""
+msgstr "设置 - 交叉推子图标"
 
 #: ../../shortcuts.rstext:163
 msgid "Preferences - Icon Effects"
-msgstr ""
+msgstr "设置 - 效果图标"
 
 #: ../../shortcuts.rstext:169
 msgid "Preferences - Icon Equalizers"
-msgstr ""
+msgstr "设置 - 均衡器图标"
 
 #: ../../shortcuts.rstext:175
 msgid "Preferences - Icon Interface"
-msgstr ""
+msgstr "设置 - 界面图标"
 
 #: ../../shortcuts.rstext:181
 msgid "Preferences - Icon Key Detection"
-msgstr ""
+msgstr "设置 - 调性检测图标"
 
 #: ../../shortcuts.rstext:187
 msgid "Preferences - Icon Library"
-msgstr ""
+msgstr "设置 - 资料库图标"
 
 #: ../../shortcuts.rstext:193
 msgid "Preferences - Icon MIDI Controllers"
-msgstr ""
+msgstr "设置 - MIDI 控制器图标"
 
 #: ../../shortcuts.rstext:199
 msgid "Preferences - Icon Modplug Decoder"
-msgstr ""
+msgstr "设置 - Modplug 解码器图标"
 
 #: ../../shortcuts.rstext:205
 msgid "Preferences - Icon Recording"
-msgstr ""
+msgstr "设置 - 录音图标"
 
 #: ../../shortcuts.rstext:211
 msgid "Preferences - Icon ReplayGain"
-msgstr ""
+msgstr "设置 - ReplayGain 图标"
 
 #: ../../shortcuts.rstext:217
 msgid "Preferences - Icon Sampler"
-msgstr ""
+msgstr "设置 - 采样器图标"
 
 #: ../../shortcuts.rstext:223
 msgid "Preferences - Icon Sound Hardware"
-msgstr ""
+msgstr "设置 - 音频硬件图标"
 
 #: ../../shortcuts.rstext:229
 msgid "Preferences - Icon Vinyl Control"
-msgstr ""
+msgstr "设置 - 黑胶控制图标"
 
 #: ../../shortcuts.rstext:238
 msgid "Vinyl Control - Receives good signal"
-msgstr ""
+msgstr "黑胶控制 - 信号良好"
 
 #: ../../shortcuts.rstext:242
 msgid "Vinyl Control - Signal goes in wrong direction"
-msgstr ""
+msgstr "黑胶控制 - 信号方向错误"
 
 #: ../../shortcuts.rstext:246
 msgid "Vinyl Control - Receives no signal"
-msgstr ""
+msgstr "黑胶控制 - 无信号"
 
 #: ../../shortcuts.rstext:250
 msgid "Vinyl Control - Receives bad signal"
-msgstr ""
+msgstr "黑胶控制 - 信号质量差"
 
 #: ../../shortcuts.rstext:254
 msgid "Vinyl Control - No input configured"
-msgstr ""
+msgstr "黑胶控制 - 未配置输入"
 
 #: ../../shortcuts.rstext:258
 msgid "Vinyl Control - Receives no timecode signal"
-msgstr ""
+msgstr "黑胶控制 - 未接收到时码信号"
 
 #: ../../shortcuts.rstext:262
 msgid "Vinyl Control - Receives signal from wrong vinyl type"
-msgstr ""
+msgstr "黑胶控制 - 接收到错误类型黑胶的信号"
 
 #: ../../shortcuts.rstext:266
 msgid "Vinyl Control - Receives mono signal"
-msgstr ""
+msgstr "黑胶控制 - 接收到单声道信号"
 
 #: ../../shortcuts.rstext:270
 msgid "Vinyl Control - Receives too loud input signal"
-msgstr ""
+msgstr "黑胶控制 - 输入信号过强"
 
 #: ../../shortcuts.rstext:274
 msgid "Vinyl Control - Receives too quiet signal"
-msgstr ""
+msgstr "黑胶控制 - 输入信号过弱"
 
 #: ../../shortcuts.rstext:281
 msgid "logo"
-msgstr ""
+msgstr "徽标"
 
 #: ../../chapters/preferences/sound_hardware.rst:6
 msgid "Sound Hardware"
@@ -367,7 +368,7 @@ msgid ""
 "an ASIO driver available, but audio interfaces built into computers and very"
 " cheap audio interfaces typically do not have an ASIO driver. If there is no"
 " ASIO driver available for your audio interface, use the WDM-KS API. There "
-"is generally no advantage to using `ASIO4ALL <http://www.asio4all.org>`_, a "
+"is generally no advantage to using `ASIO4ALL <https://asio4all.org>`_, a "
 "wrapper around the WDM-KS API."
 msgstr ""
 
@@ -447,11 +448,11 @@ msgstr ""
 msgid "CoreAudio is the only Sound API on macOS."
 msgstr ""
 
-#: ../../chapters/preferences/sound_hardware.rst:159
+#: ../../chapters/preferences/sound_hardware.rst:161
 msgid "Other Sound Hardware options"
 msgstr ""
 
-#: ../../chapters/preferences/sound_hardware.rst:160
+#: ../../chapters/preferences/sound_hardware.rst:162
 msgid ""
 "**Multi-Soundcard Synchronization**: Mixxx is able to use two or more "
 ":term:`audio interface <audio interface>` at a time, each with its own "
@@ -461,7 +462,7 @@ msgid ""
 "underflows."
 msgstr ""
 
-#: ../../chapters/preferences/sound_hardware.rst:166
+#: ../../chapters/preferences/sound_hardware.rst:168
 msgid ""
 "**Keylock/Pitch-Bending Engine**: This allows you to select the engine used "
 "for independent tempo and pitch changes (e.g. :term:`key lock`). Use "
@@ -469,13 +470,13 @@ msgid ""
 " you experience buffer underflows while using :term:`key lock`."
 msgstr ""
 
-#: ../../chapters/preferences/sound_hardware.rst:171
+#: ../../chapters/preferences/sound_hardware.rst:173
 msgid ""
 "**Main Mix**: You may disable the main mix to reduce Mixxx's CPU usage if "
 "you do not use the :term:`main output`, recording or live broadcasting."
 msgstr ""
 
-#: ../../chapters/preferences/sound_hardware.rst:174
+#: ../../chapters/preferences/sound_hardware.rst:176
 msgid ""
 "**Main Output Mode**: In Mono mode, the left and right channel are combined "
 "into a mono signal which is passed to both channels of your main audio "
@@ -484,28 +485,29 @@ msgid ""
 "reverberation."
 msgstr ""
 
-#: ../../chapters/preferences/sound_hardware.rst:180
+#: ../../chapters/preferences/sound_hardware.rst:182
 msgid ""
-"**Buffer Underflow Count**: Underflows (data is not available when needed) "
-"indicate that some of the subsystems in Mixxx can't keep up with real-time "
-"deadlines imposed by the current audio buffer size. This is useful to tune "
-"the latency settings. If the counter increases, then increase your audio "
-"buffer size, decrease the sample rate setting or change the sound API "
-"setting if available."
-msgstr ""
-
-#: ../../chapters/preferences/sound_hardware.rst:188
-msgid "Output and Input Devices"
+"**Buffer Underflow Count**: This counts overflows in output buffers or "
+"underflows in input buffers, indicating either the output device(s) can't "
+"consume audio data generated by the engine fast enough, or the input "
+"device(s) can't provide audio data as fast as required by the current audio "
+"buffer size. If the counter increases, you may try to increase your audio "
+"buffer size, decrease the sample rate setting, change the sound API "
+"available or try another keylock/pitch-bend engine."
 msgstr ""
 
 #: ../../chapters/preferences/sound_hardware.rst:190
+msgid "Output and Input Devices"
+msgstr ""
+
+#: ../../chapters/preferences/sound_hardware.rst:192
 msgid ""
 "In the usual, basic 'Digital DJ' setup (:ref:`setup-controller-and-external-"
 "card` or :ref:`setup-laptop-and-external-card`), all that needs to be "
 "configured are the Main and Headphones outputs."
 msgstr ""
 
-#: ../../chapters/preferences/sound_hardware.rst:194
+#: ../../chapters/preferences/sound_hardware.rst:196
 msgid ""
 "Deck and Bus outputs are intended for use with external hardware mixers. "
 "They are taken *post-fader*, which means they include channel volume and "
@@ -516,7 +518,7 @@ msgid ""
 "internal crossfader."
 msgstr ""
 
-#: ../../chapters/preferences/sound_hardware.rst:202
+#: ../../chapters/preferences/sound_hardware.rst:204
 msgid ""
 "All outputs are usually sent to a channel pair (stereo), though they can "
 "also be sent to a single channel (mono mixdown), for example if you need to "
@@ -524,36 +526,36 @@ msgid ""
 "laptop-with-splitter`)."
 msgstr ""
 
-#: ../../chapters/preferences/sound_hardware.rst:206
+#: ../../chapters/preferences/sound_hardware.rst:208
 msgid ""
 "Inputs can be mono or stereo, depending on the connected sources. Vinyl "
 "control inputs always require stereo to capture the full control signal."
 msgstr ""
 
-#: ../../chapters/preferences/sound_hardware.rst:210
+#: ../../chapters/preferences/sound_hardware.rst:212
 msgid "Outputs"
 msgstr ""
 
-#: ../../chapters/preferences/sound_hardware.rst:212
+#: ../../chapters/preferences/sound_hardware.rst:214
 msgid ""
 "**Main** (Master): The mix of all audible channels, e.g. main decks, all "
 "samplers, enabled microphones and auxiliary inputs."
 msgstr ""
 
-#: ../../chapters/preferences/sound_hardware.rst:215
+#: ../../chapters/preferences/sound_hardware.rst:217
 msgid ""
 "**Headphones**: All channels for which :term:`pfl` is enabled, including the"
 " preview deck."
 msgstr ""
 
-#: ../../chapters/preferences/sound_hardware.rst:218
+#: ../../chapters/preferences/sound_hardware.rst:220
 msgid ""
 "**Booth**: Basically the same output as Main to be routed to a separate "
 "output, for example for the speakers in the DJ booth, external recording "
 "device, loopback device for video recordings etc."
 msgstr ""
 
-#: ../../chapters/preferences/sound_hardware.rst:222
+#: ../../chapters/preferences/sound_hardware.rst:224
 msgid ""
 "**Left Bus / Center Bus / Right Bus**: All decks, samplers, and auxiliaries "
 "routed to the respective side of the :term:`crossfader`. The buses are "
@@ -561,32 +563,32 @@ msgid ""
 "channel mixer."
 msgstr ""
 
-#: ../../chapters/preferences/sound_hardware.rst:226
+#: ../../chapters/preferences/sound_hardware.rst:228
 msgid ""
 "**Deck 1-4**: Separate outputs for each of the main decks. They are picked "
 "post-fader and include effects and crossfader (for Auto DJ)."
 msgstr ""
 
-#: ../../chapters/preferences/sound_hardware.rst:230
+#: ../../chapters/preferences/sound_hardware.rst:232
 msgid "Inputs"
 msgstr ""
 
-#: ../../chapters/preferences/sound_hardware.rst:232
+#: ../../chapters/preferences/sound_hardware.rst:234
 msgid ""
 "**Vinyl Control 1-4**: Inputs to be used for :ref:`vinyl control and "
 "passthrough <vinyl-control>`. Note that one input can be selected for "
 "multiple decks."
 msgstr ""
 
-#: ../../chapters/preferences/sound_hardware.rst:235
+#: ../../chapters/preferences/sound_hardware.rst:237
 msgid "**Microphone 1-4**: The :ref:`microphone <microphones>` inputs."
 msgstr ""
 
-#: ../../chapters/preferences/sound_hardware.rst:237
+#: ../../chapters/preferences/sound_hardware.rst:239
 msgid "**Auxiliary 1-4**: Auxiliary inputs."
 msgstr ""
 
-#: ../../chapters/preferences/sound_hardware.rst:239
+#: ../../chapters/preferences/sound_hardware.rst:241
 msgid ""
 "**Record/Broadcast**: The input used for the Mixxx-internal :ref:`recording "
 "<djing-recording-your-mix>` and :ref:`broadcasting <live-broadcasting>`. "

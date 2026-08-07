@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2011-2024, The Mixxx Development Team
+# Copyright (C) 2011-2026, The Mixxx Development Team
 # This file is distributed under the same license as the Mixxx package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mixxx 2.7\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-28 07:46+0200\n"
+"POT-Creation-Date: 2026-08-07 18:13+0200\n"
 "PO-Revision-Date: 2025-04-17 19:24+0000\n"
 "Last-Translator: Daniel Schürmann <daschuer@mixxx.org>, 2025\n"
 "Language-Team: French (https://app.transifex.com/mixxx-dj-software/teams/7734/fr/)\n"
@@ -315,6 +315,6 @@ msgstr ""
 msgid ""
 "**Social Media**: Follow us on `Mastodon <https://floss.social/@mixxx>`_, "
 "`Bluesky <https://bsky.app/profile/mixxx.bsky.social>`_, `Facebook "
-"<https://www.facebook.com/pages/Mixxx-DJ-Software/21723485212>`_ and "
-"`YouTube <https://www.youtube.com/@mixxxdj/posts>`_"
+"<https://www.facebook.com/mixxxdj/>`_ and `YouTube "
+"<https://www.youtube.com/@mixxxdj/posts>`_"
 msgstr ""

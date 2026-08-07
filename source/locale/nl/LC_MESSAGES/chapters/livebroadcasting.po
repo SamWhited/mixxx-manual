@@ -1,19 +1,19 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2011-2024, The Mixxx Development Team
+# Copyright (C) 2011-2026, The Mixxx Development Team
 # This file is distributed under the same license as the Mixxx package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Daniel Schürmann <daschuer@mixxx.org>, 2024
+# Daniel Schürmann <daschuer@mixxx.org>, 2025
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Mixxx 2.6\n"
+"Project-Id-Version: Mixxx 2.7\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-29 13:35+0100\n"
-"PO-Revision-Date: 2024-05-22 20:50+0000\n"
-"Last-Translator: Daniel Schürmann <daschuer@mixxx.org>, 2024\n"
+"POT-Creation-Date: 2026-08-07 18:13+0200\n"
+"PO-Revision-Date: 2025-04-17 19:24+0000\n"
+"Last-Translator: Daniel Schürmann <daschuer@mixxx.org>, 2025\n"
 "Language-Team: Dutch (https://app.transifex.com/mixxx-dj-software/teams/7734/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -223,11 +223,9 @@ msgstr "Live uitzenden - Begin uw eigen internetradio"
 
 #: ../../chapters/livebroadcasting.rst:11
 msgid ""
-"Live Broadcasting in Mixxx allow you to stream your mix over the Internet to"
-" listeners around the world."
+"Live Broadcasting in Mixxx allows you to stream your mix over the Internet "
+"to listeners around the world."
 msgstr ""
-"Met live uitzending in Mixxx kun je je mix via het internet naar luisteraars"
-" over de hele wereld streamen."
 
 #: ../../chapters/livebroadcasting.rst:14
 msgid ""
@@ -529,35 +527,32 @@ msgstr "Shoutcast metadata formaat"
 #: ../../chapters/livebroadcasting.rst:167
 msgid ""
 "This allows to set custom metadata formats for the Shoutcast title field. "
-"Previously only ``artist - title`` was allowed. For example if you were "
-"broadcasting as part of a station, you could add the station's name or the "
-"presenter's name in the title: ``MyStation | $artist - $title``. Or if you "
-"were doing a live mix with several artists, you could have: ``Live mix by "
-"MyName - currently playing: $artist``. Or even if you wanted a very unusual "
-"format: ``Hey, I like $artist, here is $title by $artist``."
+"You can use the following tags: ``$artist``, ``$title``, ``$album``, "
+"``$year``, ``$genre`` and ``$bpm``."
 msgstr ""
-"Dit staat u toe om specifieke metadata formaten voor het Shoutcast titel "
-"veld in te stellen. Voordien was enkel ``artiest - titel`` toegestaan. "
-"Bijvoorbeeld indien u uitzend als deel van een radio station, dan kan u de "
-"naam van het station of de naam van de presentator toevoegen in de titel: "
-"``MijnStation | $artiest - $titel``. Of wanneer u een live mix met "
-"verschillende artiesten aan het uitvoeren bent, dan kan u bijvoorbeeld: "
-"``Live mix door MijnNaam - u hoort momenteel: $artiest`` meegeven. Of u kan "
-"zelfs een heel ongewoon formaat gebruiken, bijvoorbeeld: ``Hey, ik hou van "
-"$artiest, dit is $titel door $artiest``."
 
-#: ../../chapters/livebroadcasting.rst:175
+#: ../../chapters/livebroadcasting.rst:171
+msgid ""
+"For example if you were broadcasting as part of a station, you could add the"
+" station's name or the presenter's name in the title: ``MyStation | $artist "
+"- $title``. Or if you were doing a live mix with several artists, you could "
+"have: ``Live mix by MyName - currently playing: $artist``. Or even if you "
+"wanted a very unusual format: ``Hey, I like $artist, here is $title from the"
+" album $album by $artist``."
+msgstr ""
+
+#: ../../chapters/livebroadcasting.rst:179
 msgid ""
 "The changes **do not** affect the case for the combination of OGG/Icecast2."
 msgstr ""
 "De wijzigingen hebben **geen** effect op de combination van OGG met "
 "Icecast2."
 
-#: ../../chapters/livebroadcasting.rst:178
+#: ../../chapters/livebroadcasting.rst:182
 msgid "Custom metadata"
 msgstr "Persoonlijke metadata"
 
-#: ../../chapters/livebroadcasting.rst:180
+#: ../../chapters/livebroadcasting.rst:184
 msgid ""
 "By default, Mixxx broadcasts artist and title information of the files that "
 "you play to your listeners. You can disable this feature and use your own "
@@ -567,13 +562,13 @@ msgstr ""
 "dat u afspeelt voor uw luisteraars. U kan deze optie deactiveren en uw "
 "persoonlijke metadata meesturen."
 
-#: ../../chapters/livebroadcasting.rst:184
+#: ../../chapters/livebroadcasting.rst:188
 msgid "**Enable custom metadata**: Toggles custom metadata on and off."
 msgstr ""
 "**Activeer persoonlijke metadata**: Schakelt persoonlijke metadata aan en "
 "uit."
 
-#: ../../chapters/livebroadcasting.rst:185
+#: ../../chapters/livebroadcasting.rst:189
 msgid ""
 "**Artist**: Insert your custom artist metadata here, your DJ name for "
 "example."
@@ -581,15 +576,15 @@ msgstr ""
 "**Artiest**: Vul hier uw persoonlijke artiest metadata in, bijvoorbeeld uw "
 "DJ naam."
 
-#: ../../chapters/livebroadcasting.rst:186
+#: ../../chapters/livebroadcasting.rst:190
 msgid "**Title**: Insert your custom title metadata here."
 msgstr "**Titel**: Geef hier uw persoonlijke titel metadata in."
 
-#: ../../chapters/livebroadcasting.rst:189
+#: ../../chapters/livebroadcasting.rst:193
 msgid "Icecast vs. Shoutcast"
 msgstr "Icecast ten opzichte van Shoutcast"
 
-#: ../../chapters/livebroadcasting.rst:191
+#: ../../chapters/livebroadcasting.rst:195
 msgid ""
 "Both essentially serve the same purpose. An Icecast server can stream either"
 " :term:`MP3` or :term:`Ogg Vorbis`. However, although Ogg is more efficient "
@@ -604,11 +599,11 @@ msgstr ""
 "conclusie is MP3 waarschijnlijk een veilige keuze, tenzij u weet dat uw "
 "luisteraars succesvol naar een Ogg stream kunnen luisteren.."
 
-#: ../../chapters/livebroadcasting.rst:198
+#: ../../chapters/livebroadcasting.rst:202
 msgid "Broadcast directories"
 msgstr "Broadcast station-overzichten"
 
-#: ../../chapters/livebroadcasting.rst:200
+#: ../../chapters/livebroadcasting.rst:204
 msgid ""
 "Generally your streaming server host adds your radio station to the "
 "Shoutcast/Icecast directory, if you enable the :guilabel:`Public Stream` "
@@ -620,7 +615,7 @@ msgstr ""
 "Stream` optie activeert in de :menuselection:`Voorkeuren --> Live "
 "Broadcasting --> Stream Instellingen`."
 
-#: ../../chapters/livebroadcasting.rst:204
+#: ../../chapters/livebroadcasting.rst:208
 msgid ""
 "**Shoutcast radio directory**: `www.shoutcast.com "
 "<https://www.shoutcast.com/>`_"
@@ -628,12 +623,12 @@ msgstr ""
 "**Shoutcast radio station-overzicht**: `www.shoutcast.com "
 "<https://www.shoutcast.com/>`_"
 
-#: ../../chapters/livebroadcasting.rst:205
+#: ../../chapters/livebroadcasting.rst:209
 msgid "**Icecast radio directory**: `dir.xiph.org <http://dir.xiph.org/>`_"
 msgstr ""
 "**Icecast radio station overzicht**: `dir.xiph.org <http://dir.xiph.org/>`_"
 
-#: ../../chapters/livebroadcasting.rst:207
+#: ../../chapters/livebroadcasting.rst:211
 msgid ""
 "Often streaming hosts will run their own directories. Check your host's FAQ "
 "to find out. If you want to promote your streaming radio station even more, "
@@ -651,11 +646,11 @@ msgstr ""
 "<https://www.shoutcheap.com/internet-radio-directories-submitting-and-"
 "promoting/>`_"
 
-#: ../../chapters/livebroadcasting.rst:214
+#: ../../chapters/livebroadcasting.rst:218
 msgid "Troubleshooting"
 msgstr "Probleemoplossing"
 
-#: ../../chapters/livebroadcasting.rst:216
+#: ../../chapters/livebroadcasting.rst:220
 msgid ""
 "If you have trouble connecting to your streaming server, check the "
 "configuration in the :ref:`live-broadcasting-preferences`."
@@ -663,7 +658,7 @@ msgstr ""
 "Wanneer u een probleem heeft met de verbinding met uw streaming server, "
 "controleer de configuratie in de :ref:`live-broadcasting-preferences`."
 
-#: ../../chapters/livebroadcasting.rst:218
+#: ../../chapters/livebroadcasting.rst:222
 msgid ""
 "You may have selected the :term:`Ogg Vorbis` format that is unsupported by "
 "Shoutcast servers."
@@ -671,7 +666,7 @@ msgstr ""
 "U kan mogelijk het formaat :term:`Ogg Vorbis` hebben geselecteerd terwijl "
 "dat niet wordt ondersteund door Shoutcast servers."
 
-#: ../../chapters/livebroadcasting.rst:220
+#: ../../chapters/livebroadcasting.rst:224
 msgid ""
 "You may need to check your firewall settings. Both Icecast and Shoutcast use"
 " two ports. If you are streaming on a port (for example, port 8000) then you"
@@ -682,7 +677,7 @@ msgstr ""
 "(bijvoorbeeld poort 8000), dan dient u de net hierop volgende poort ook te "
 "openen (8001 in het voorbeeld)."
 
-#: ../../chapters/livebroadcasting.rst:223
+#: ../../chapters/livebroadcasting.rst:227
 msgid ""
 "You may need to configure port forwarding if you are behind a router or your"
 " router will block requests to your streaming port (for example, port 8000)"

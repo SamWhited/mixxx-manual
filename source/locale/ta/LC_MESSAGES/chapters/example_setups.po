@@ -1,0 +1,328 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2011-2026, The Mixxx Development Team
+# This file is distributed under the same license as the Mixxx package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Mixxx 2.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-07 18:13+0200\n"
+"PO-Revision-Date: 2025-04-17 19:24+0000\n"
+"Language-Team: Tamil (https://app.transifex.com/mixxx-dj-software/teams/7734/ta/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ta\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../chapters/example_setups.md:1
+msgid "Example Setups"
+msgstr ""
+
+#: ../../chapters/example_setups.md:3
+msgid ""
+"This chapter presents some example hardware setups with instructions for how"
+" to configure Mixxx to work with them."
+msgstr ""
+
+#: ../../chapters/example_setups.md:6
+msgid ""
+"{ref}`hardware`: background information about different types of equipment."
+msgstr ""
+
+#: ../../chapters/example_setups.md:7
+msgid ""
+"{ref}`getting-started-sound-io`: details about each available input and "
+"output option."
+msgstr ""
+
+#: ../../chapters/example_setups.md:8
+msgid ""
+"{ref}`microphones`: details for configuring Mixxx to work with microphones."
+msgstr ""
+
+#: ../../chapters/example_setups.md:9
+msgid ""
+"[DJ Hardware Guide](https://github.com/mixxxdj/mixxx/wiki/Hardware-"
+"Compatibility) lists specific devices with information about their prices, "
+"features, and compatibility with Mixxx."
+msgstr ""
+
+#: ../../chapters/example_setups.md:12
+msgid "Computer Only"
+msgstr ""
+
+#: ../../chapters/example_setups.md:14
+msgid ""
+"The built-in audio interface on most computers comes with a single stereo "
+"line-out and a microphone input. This can be set up with Mixxx in two ways:"
+msgstr ""
+
+#: ../../chapters/example_setups.md:16
+msgid "Practicing Mixing / Broadcasting"
+msgstr ""
+
+#: ../../chapters/example_setups.md:18
+msgid ""
+"This setup can be used with a single audio output for speakers or headphones"
+" to practice DJing without investing in any equipment other than a computer "
+"and a set of speakers or headphones. With this configuration, use the "
+"{ref}`Pre/Main Knob <interface-head-main>` to switch back and forth between "
+"the main mix and {term}`PFL` signal. This setup cannot be used to play for a"
+" live audience because the main mix is not sent to an audio interface "
+"output. However, it can be used by radio DJs who only need to send the main "
+"mix to a broadcast audience."
+msgstr ""
+
+#: ../../chapters/example_setups.md:20 ../../chapters/example_setups.md:45
+#: ../../chapters/example_setups.md:66 ../../chapters/example_setups.md:90
+#: ../../chapters/example_setups.md:97 ../../chapters/example_setups.md:123
+#: ../../chapters/example_setups.md:144
+msgid "Open {menuselection}`Preferences --> Sound Hardware`"
+msgstr ""
+
+#: ../../chapters/example_setups.md:21 ../../chapters/example_setups.md:46
+#: ../../chapters/example_setups.md:67 ../../chapters/example_setups.md:91
+#: ../../chapters/example_setups.md:98 ../../chapters/example_setups.md:124
+#: ../../chapters/example_setups.md:145
+msgid "Select the {guilabel}`Output` tab"
+msgstr ""
+
+#: ../../chapters/example_setups.md:22
+msgid ""
+"From the {guilabel}`Headphones` drop-down menu, select your built-in audio "
+"interface, then {guilabel}`Channels 1-2`. Although this is labeled "
+"{guilabel}`Headphones`, you can also plug speakers into the output jack of "
+"your computer."
+msgstr ""
+
+#: ../../chapters/example_setups.md:23
+msgid ""
+"Depending on your audio interface, you can specify a "
+"[microphone](microphones.rst)"
+msgstr ""
+
+#: ../../chapters/example_setups.md:26 ../../chapters/example_setups.md:51
+msgid "Use your built-in microphone or connect a microphone to your computer"
+msgstr ""
+
+#: ../../chapters/example_setups.md:27 ../../chapters/example_setups.md:52
+msgid ""
+"Check that your microphone is detected by your {term}`OS <operating system>`"
+msgstr ""
+
+#: ../../chapters/example_setups.md:28 ../../chapters/example_setups.md:53
+msgid "Open the {guilabel}`Input` tab"
+msgstr ""
+
+#: ../../chapters/example_setups.md:29 ../../chapters/example_setups.md:54
+msgid ""
+"From the {guilabel}`Microphone` drop-down menu, select the input your "
+"microphone is connected to"
+msgstr ""
+
+#: ../../chapters/example_setups.md:31 ../../chapters/example_setups.md:55
+#: ../../chapters/example_setups.md:71 ../../chapters/example_setups.md:101
+#: ../../chapters/example_setups.md:127 ../../chapters/example_setups.md:148
+msgid "Click {guilabel}`Apply` to save the changes."
+msgstr ""
+
+#: ../../chapters/example_setups.md:33
+msgid "Playing for an Audience"
+msgstr ""
+
+#: ../../chapters/example_setups.md:35
+msgid ""
+"This setup allows for playing to an audience without headphone "
+"{term}`cueing`."
+msgstr ""
+
+#: ../../chapters/example_setups.md:37 ../../chapters/example_setups.md:42
+msgid "Using Mixxx with your built-in sound card"
+msgstr ""
+
+#: ../../chapters/example_setups.md:47
+msgid ""
+"From the {guilabel}`Main` drop-down menu, select your built-in audio "
+"interface, then {guilabel}`Channels 1-2`"
+msgstr ""
+
+#: ../../chapters/example_setups.md:48
+msgid ""
+"Depending on your audio interface, you can specify a {ref}`microphone "
+"<microphones>`"
+msgstr ""
+
+#: ../../chapters/example_setups.md:58
+msgid "Laptop and Splitter Cable"
+msgstr ""
+
+#: ../../chapters/example_setups.md:60
+msgid ""
+"The cheapest way to DJ and {term}`cue` with headphones uses a stereo-to-mono"
+" DJ splitter cable (also known as a “Y cable”) plugged into the headphone "
+"jack of a laptop or other computer. This cable divides the stereo output "
+"from a single jack into two separate mono signals."
+msgstr ""
+
+#: ../../chapters/example_setups.md:62
+msgid ""
+"This setup allows you to start DJing without having to invest in expensive "
+"equipment. However, because the signals are in mono, you and your audience "
+"will not be able to enjoy music producers' positioning of sound in space "
+"(although many club PA systems are wired in mono anyway). Furthermore, audio"
+" interfaces built into computers are usually low quality and often pick up "
+"interference from other components of the computer."
+msgstr ""
+
+#: ../../chapters/example_setups.md:64
+msgid "**Using a built-in audio interface and a stereo-to-mono splitter**"
+msgstr ""
+
+#: ../../chapters/example_setups.md:68
+msgid ""
+"Check that your headphones are plugged into the side of the cable with a "
+"headphones symbol and that the speakers are plugged into the side of the "
+"cable with a speaker symbol."
+msgstr ""
+
+#: ../../chapters/example_setups.md:69
+msgid ""
+"From the {guilabel}`Main` drop-down menu, select your built-in audio "
+"interface, then {guilabel}`Channel 1`"
+msgstr ""
+
+#: ../../chapters/example_setups.md:70
+msgid ""
+"From the {guilabel}`Headphones` drop-down menu, select your built-in audio "
+"interface, then {guilabel}`Channel 2`"
+msgstr ""
+
+#: ../../chapters/example_setups.md:74
+msgid ""
+"Most splitter cables, particularly those marketed as headphone splitter "
+"cables, output the same stereo signal to two headphone jacks and will not "
+"work for this DJ setup. Also, if you use a generic stereo-to-mono splitter "
+"adapter, you may only be able to hear out of one side of your speakers and "
+"headphones. DJ splitter cables allow you to hear the same mono signal on "
+"both sides of your headphones and speakers."
+msgstr ""
+
+#: ../../chapters/example_setups.md:78
+msgid "Laptop and External USB Audio Interface"
+msgstr ""
+
+#: ../../chapters/example_setups.md:80 ../../chapters/example_setups.md:85
+msgid "Using Mixxx together with an external audio interface"
+msgstr ""
+
+#: ../../chapters/example_setups.md:88
+msgid "**Using two audio interfaces (built-in + external)**"
+msgstr ""
+
+#: ../../chapters/example_setups.md:92 ../../chapters/example_setups.md:99
+#: ../../chapters/example_setups.md:146
+msgid ""
+"From the {guilabel}`Main` drop-down menu, select the external audio "
+"interface, then {guilabel}`Channels 1-2`"
+msgstr ""
+
+#: ../../chapters/example_setups.md:93 ../../chapters/example_setups.md:147
+msgid ""
+"From the {guilabel}`Headphones` drop-down menu, select the built-in audio "
+"interface, then {guilabel}`Channels 1-2`"
+msgstr ""
+
+#: ../../chapters/example_setups.md:95
+msgid "**Using an external multi-channel audio interface**"
+msgstr ""
+
+#: ../../chapters/example_setups.md:100
+msgid ""
+"From the {guilabel}`Headphones` drop-down menu, select the external audio "
+"interface, then {guilabel}`Channels 3-4`"
+msgstr ""
+
+#: ../../chapters/example_setups.md:103
+msgid "Laptop and MIDI or HID Controller"
+msgstr ""
+
+#: ../../chapters/example_setups.md:106
+msgid ""
+"The {ref}`hardware-controllers` section of the {ref}`hardware` chapter has "
+"background information about controllers"
+msgstr ""
+
+#: ../../chapters/example_setups.md:109
+msgid "Controllers with an integrated audio interface"
+msgstr ""
+
+#: ../../chapters/example_setups.md:111
+msgid ""
+"Many DJ controllers include an integrated *multi-channel* audio interface. A"
+" setup with this kind of controller may look like the diagram below:"
+msgstr ""
+
+#: ../../chapters/example_setups.md:113 ../../chapters/example_setups.md:118
+msgid ""
+"Using Mixxx together with a DJ controller and integrated audio interface"
+msgstr ""
+
+#: ../../chapters/example_setups.md:121
+msgid ""
+"**Using a controller with an integrated multi-channel audio interface**"
+msgstr ""
+
+#: ../../chapters/example_setups.md:125
+msgid ""
+"From the {guilabel}`Main` drop-down menu, select your controller's audio "
+"interface, then {guilabel}`Channels 1-2`"
+msgstr ""
+
+#: ../../chapters/example_setups.md:126
+msgid ""
+"From the {guilabel}`Headphones` drop-down menu, select your controller's "
+"audio interface, then {guilabel}`Channels 3-4`"
+msgstr ""
+
+#: ../../chapters/example_setups.md:130
+msgid "Controllers without an integrated audio interface"
+msgstr ""
+
+#: ../../chapters/example_setups.md:132
+msgid ""
+"Controllers without an integrated audio interface can be used together with "
+"a USB audio interface as depicted in the diagram below:"
+msgstr ""
+
+#: ../../chapters/example_setups.md:134 ../../chapters/example_setups.md:139
+msgid "Using Mixxx together with a DJ controller and external audio interface"
+msgstr ""
+
+#: ../../chapters/example_setups.md:142
+msgid "**Using a controller without an integrated audio interface**"
+msgstr ""
+
+#: ../../chapters/example_setups.md:150
+msgid "Laptop, External Hardware Mixer and Vinyl Control"
+msgstr ""
+
+#: ../../chapters/example_setups.md:152 ../../chapters/example_setups.md:157
+msgid "Using Mixxx together with turntables and external mixer"
+msgstr ""
+
+#: ../../chapters/example_setups.md:160
+msgid ""
+"This setup allows DJs to use the techniques of DJing with vinyl record "
+"turntables combined with the portability and flexibility of a laptop "
+"computer. Instead of carrying crates of records or CDs, DJs can carry their "
+"entire music collection on their laptop. In addition to a laptop and "
+"headphones, this setup requires an audio interface with at least two pairs "
+"of stereo inputs and outputs as well as a pair of {term}`timecode` records."
+msgstr ""
+
+#: ../../chapters/example_setups.md:163
+msgid "Go to the chapter {ref}`vinyl-control` for detailed information."
+msgstr ""

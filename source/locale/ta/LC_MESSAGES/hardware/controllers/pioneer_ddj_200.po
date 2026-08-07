@@ -1,0 +1,345 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2011-2026, The Mixxx Development Team
+# This file is distributed under the same license as the Mixxx package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Mixxx 2.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-07 18:13+0200\n"
+"PO-Revision-Date: 2025-04-17 19:24+0000\n"
+"Language-Team: Tamil (https://app.transifex.com/mixxx-dj-software/teams/7734/ta/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ta\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:3
+msgid "Pioneer DDJ-200"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:10
+#: ../../hardware/controllers/pioneer_ddj_200.md:15
+msgid "Pioneer DDJ-200 (schematic view)"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:17
+msgid ""
+"The Pioneer DDJ-200 is a 2 deck USB and Bluetooth DJ controller designed for"
+" WeDJ, djay, edjing Mix and Rekordbox."
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:19
+msgid ""
+"[Manufacturer's Product Page](https://www.pioneerdj.com/en-"
+"gb/product/controller/ddj-200/black/overview/)"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:20
+msgid ""
+"[Manufacturer's User Manual](https://support.pioneerdj.com/hc/en-"
+"us/articles/4404919733401-How-to-use-the-Pioneer-DJ-DDJ-200-Controller-"
+"Instruction-manual/)"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:21
+msgid ""
+"[Manufacturer's Firmware "
+"Update](https://www.pioneerdj.com/en/support/software/controller/ddj-200/)"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:22
+msgid ""
+"[Mixxx User Forum](https://mixxx.discourse.group/t/pioneer-"
+"ddj-200-mapping/18259)"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:26
+msgid "Controller Mapping"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:29
+msgid ""
+"A schematic drawing with the control numbers that are used here can be found"
+" on the specified page in the User Manual in the Links section."
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:33
+#: ../../hardware/controllers/pioneer_ddj_200.md:42
+msgid "Deck section (p. 8)"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:36
+msgid "Pioneer DDJ-200 (deck section)"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "No."
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "Control"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "Function"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "1"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+msgid "Jog Wheel (top)"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+msgid "Scratch (move play position)"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+msgid "Jog Wheel (outer)"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+msgid "Pitch bend (nudge)"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+msgid "{hwlabel}`SHIFT` + Jog Wheel (top)"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+msgid "Scratch (move play position) faster"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+msgid "{hwlabel}`SHIFT (left)` + Jog Wheel (outer)"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+msgid "Move track selection in library"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "2"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+msgid "{hwlabel}`SHIFT` button"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+msgid "Switch function of controls"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "3"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+msgid "Pad 1 - 8"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+msgid "Set (if empty) or play (if set) hot cue point / loop 1 - 8"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+msgid "{hwlabel}`SHIFT` + Pad 1 - 8"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+msgid "Unset / delete hot cue 1 - 8"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "4"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+msgid "{hwlabel}`CUE` button"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+msgid ""
+"Set or play cue point, change cue point with JOG WHEEL (top) + cue point"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+msgid "{hwlabel}`SHIFT` + {hwlabel}`CUE` button"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+msgid "Return to cue point and stop"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "5"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+msgid "{hwlabel}`PLAY/PAUSE` button"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+msgid "Play / pause"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "6"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+msgid "{hwlabel}`BEAT SYNC` button"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+msgid "Match tempo and phase of other deck, long press to enable master sync"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "7"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+msgid "{hwlabel}`TEMPO` slider"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:39
+msgid ""
+"Adjust track playing speed (can be adjusted via {hwlabel}`SHIFT` + "
+"{hwlabel}`BEAT SYNC`)"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:63
+#: ../../hardware/controllers/pioneer_ddj_200.md:72
+msgid "Mixer section (p. 10)"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:66
+msgid "Pioneer DDJ-200 (mixer section)"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "{hwlabel}`MASTER` button"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "Toggle main/cue knob of headphones between left and right"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "{hwlabel}`SHIFT` + {hwlabel}`MASTER` button"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "Toggle between 2- and 4-deck mode"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "{hwlabel}`HI`/{hwlabel}`MID`/{hwlabel}`LOW` knobs"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "Adjust high/mid/low-frequencies"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "{hwlabel}`CFX` knobs"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "Turns on the selected effects"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "{hwlabel}`HEADPHONE CUE 1` button"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "Toggle headphone pre-fader listening of left deck."
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "{hwlabel}`HEADPHONE CUE 2` button"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "Toggle headphone pre-fader listening of right deck."
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "{hwlabel}`SHIFT (left)` + {hwlabel}`HEADPHONE CUE 1`"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "Load selected track to left deck."
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "{hwlabel}`SHIFT (left)` + {hwlabel}`HEADPHONE CUE 2`"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "Load selected track to right deck."
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "{hwlabel}`SHIFT (right)` + {hwlabel}`HEADPHONE CUE 1`"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid ""
+"Toggle between left deck between 1 / 3 in 4-deck mode (if LED is lit, deck 3"
+" is active). If 4-deck mode is disabled, this behaves the same as "
+"{hwlabel}`SHIFT (left)` + {hwlabel}`HEADPHONE CUE 1`."
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "{hwlabel}`SHIFT (right)` + {hwlabel}`HEADPHONE CUE 2`"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid ""
+"Toggle between right deck between 2 / 4 in 4-deck mode (if LED is lit, deck "
+"4 is active). If 4-deck mode is disabled, this behaves the same as "
+"{hwlabel}`SHIFT (left)` + {hwlabel}`HEADPHONE CUE 2`."
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "Channel faders"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "Adjust the output level for each channel"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "Transition FX Button"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "Turns on {ref}`AutoDJ <djing-auto-dj>`"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "Cross fader"
+msgstr ""
+
+#: ../../hardware/controllers/pioneer_ddj_200.md:69
+msgid "Fade between left and right deck"
+msgstr ""

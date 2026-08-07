@@ -1,0 +1,152 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2011-2026, The Mixxx Development Team
+# This file is distributed under the same license as the Mixxx package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Mixxx 2.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-07 18:13+0200\n"
+"PO-Revision-Date: 2025-04-17 19:24+0000\n"
+"Language-Team: Tamil (https://app.transifex.com/mixxx-dj-software/teams/7734/ta/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ta\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:1
+msgid "MixVibes U-Mix Control (Pro) 2"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:4
+msgid ""
+"The MixVibes U-Mix Control Pro 2 is a MIDI DJ controller with an **internal "
+"soundcard** and **two Inputs** for Turntables or any Audio-Source with RCA. "
+"It offers also a **changeable** Cross-fader, **adjustable** Cross-Fader "
+"**Curve** and **individual Touch-Level-Sensors**. The U-Mix Control **Pro** "
+"differs only in Cue-Button-Labels The U-Mix Control 2 (without “Pro” = "
+"internal soundcard) also. Both should work fine with this MIDI mapping."
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:10
+msgid ""
+"[Manufacturer’s product "
+"page](https://web.archive.org/web/20151110080127/http://www.mixvibes.com/products/u-mix-"
+"control-pro-2) (archived)"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:11
+msgid ""
+"[Forum thread](https://mixxx.discourse.group/t/v1-0-mixvibes-u-mix-control-"
+"pro-2-mapping/13322)"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:15
+msgid "Mapping description"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:18
+msgid "Cross- Volume- and Pitchbend-Slider"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:19
+msgid ""
+"Master, Gain- and EQ-Nobs incl. Kill-Switches, Cue/Master-Mix (Headphone)"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:20
+msgid "Cue-, Play-, Sync-, Pitchbend-, HotCue-, Headphone, Load A/B-Buttions"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:21
+msgid "JogWheels (incl. Scratch & Jog)"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:22
+msgid "MediaKnob"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:23
+msgid "LEDs"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:25
+msgid "Clipping"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:26
+msgid "EQ-Kill"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:27
+msgid "CUE/PLAY(BPM)/SYNC"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:28
+msgid "HotCUEs"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:29
+msgid "Headphone (A/B)"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:30
+msgid "Load (A/B) - 20 Seconds end of Track"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:31
+msgid "Jog (Keylock)"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:32
+msgid "Bend"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:34
+msgid "**Special Functions**"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:36
+msgid "BPM-Tap: Press “Shift” + “Sync”"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:37
+msgid "Keylock: Press “Jog”"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:39
+msgid "**Currently not working**"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:41
+msgid "Sample-Deck-Management"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:42
+msgid "Loop-Knob & Loop-Setting"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:44
+msgid "**Not MIDI-mappable**"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:46
+msgid "MIC-Level-Control (MIC is hardwired through master output)"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:47
+msgid ""
+"Headphone-Level Control (Level-Adjustment in Mixxx and the Hardware-Nob are "
+"independent)"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:48
+msgid "Touch Level sensitivity (only Hardware)"
+msgstr ""
+
+#: ../../hardware/controllers/mixvibes_u_mix_control_2.md:49
+msgid "C.F. Curve (turn to fully left and change in Mixxx, if needed)"
+msgstr ""

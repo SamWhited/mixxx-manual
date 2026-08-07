@@ -1,19 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2011-2024, The Mixxx Development Team
+# Copyright (C) 2011-2026, The Mixxx Development Team
 # This file is distributed under the same license as the Mixxx package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
 # Daniel Schürmann <daschuer@mixxx.org>, 2025
+# 重音 ミク, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Mixxx 2.7\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-28 07:46+0200\n"
+"POT-Creation-Date: 2026-08-07 18:13+0200\n"
 "PO-Revision-Date: 2025-04-17 19:24+0000\n"
-"Last-Translator: Daniel Schürmann <daschuer@mixxx.org>, 2025\n"
+"Last-Translator: 重音 ミク, 2026\n"
 "Language-Team: Chinese (Taiwan) (https://app.transifex.com/mixxx-dj-software/teams/7734/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -63,159 +64,159 @@ msgstr "库 - 媒体库图标"
 
 #: ../../shortcuts.rstext:64
 msgid "Library - Icon Locked"
-msgstr ""
+msgstr "Library - 锁定图标"
 
 #: ../../shortcuts.rstext:70
 msgid "Library - Icon Missing Tracks"
-msgstr ""
+msgstr "库 - 缺失曲目图标"
 
 #: ../../shortcuts.rstext:76
 msgid "Library - Icon Playlist"
-msgstr ""
+msgstr "库 - 播放列表图标"
 
 #: ../../shortcuts.rstext:82
 msgid "Library - Icon Analyze"
-msgstr ""
+msgstr "库 - 分析图标"
 
 #: ../../shortcuts.rstext:88
 msgid "Library - Icon Recordings"
-msgstr ""
+msgstr "库 - 录音图标"
 
 #: ../../shortcuts.rstext:94
 msgid "Library - Icon Rhythmbox"
-msgstr ""
+msgstr "库 - Rhythmbox 图标"
 
 #: ../../shortcuts.rstext:100
 msgid "Library - Icon Serato"
-msgstr ""
+msgstr "库 - Serato 图标"
 
 #: ../../shortcuts.rstext:106
 msgid "Library - Icon Traktor"
-msgstr ""
+msgstr "库 - Traktor 图标"
 
 #: ../../shortcuts.rstext:112
 msgid "Library - Preview Pause"
-msgstr ""
+msgstr "库 - 试听暂停"
 
 #: ../../shortcuts.rstext:118
 msgid "Library - Preview Play"
-msgstr ""
+msgstr "库 - 试听播放"
 
 #: ../../shortcuts.rstext:124
 msgid "Library - BPM Locked"
-msgstr ""
+msgstr "库 - BPM 已锁定"
 
 #: ../../shortcuts.rstext:130
 msgid "Library - BPM Unlocked"
-msgstr ""
+msgstr "库 - BPM 已解锁"
 
 #: ../../shortcuts.rstext:139
 msgid "Preferences - Icon BPM Detection"
-msgstr ""
+msgstr "设置 - BPM 检测图标"
 
 #: ../../shortcuts.rstext:145
 msgid "Preferences - Icon Live Broadcasting"
-msgstr ""
+msgstr "设置 - 直播图标"
 
 #: ../../shortcuts.rstext:151
 msgid "Preferences - Icon Controllers"
-msgstr ""
+msgstr "设置 - 控制器图标"
 
 #: ../../shortcuts.rstext:157
 msgid "Preferences - Icon Crossfader"
-msgstr ""
+msgstr "设置 - 交叉推子图标"
 
 #: ../../shortcuts.rstext:163
 msgid "Preferences - Icon Effects"
-msgstr ""
+msgstr "设置 - 效果图标"
 
 #: ../../shortcuts.rstext:169
 msgid "Preferences - Icon Equalizers"
-msgstr ""
+msgstr "设置 - 均衡器图标"
 
 #: ../../shortcuts.rstext:175
 msgid "Preferences - Icon Interface"
-msgstr ""
+msgstr "设置 - 界面图标"
 
 #: ../../shortcuts.rstext:181
 msgid "Preferences - Icon Key Detection"
-msgstr ""
+msgstr "设置 - 调性检测图标"
 
 #: ../../shortcuts.rstext:187
 msgid "Preferences - Icon Library"
-msgstr ""
+msgstr "设置 - 资料库图标"
 
 #: ../../shortcuts.rstext:193
 msgid "Preferences - Icon MIDI Controllers"
-msgstr ""
+msgstr "设置 - MIDI 控制器图标"
 
 #: ../../shortcuts.rstext:199
 msgid "Preferences - Icon Modplug Decoder"
-msgstr ""
+msgstr "设置 - Modplug 解码器图标"
 
 #: ../../shortcuts.rstext:205
 msgid "Preferences - Icon Recording"
-msgstr ""
+msgstr "设置 - 录音图标"
 
 #: ../../shortcuts.rstext:211
 msgid "Preferences - Icon ReplayGain"
-msgstr ""
+msgstr "设置 - ReplayGain 图标"
 
 #: ../../shortcuts.rstext:217
 msgid "Preferences - Icon Sampler"
-msgstr ""
+msgstr "设置 - 采样器图标"
 
 #: ../../shortcuts.rstext:223
 msgid "Preferences - Icon Sound Hardware"
-msgstr ""
+msgstr "设置 - 音频硬件图标"
 
 #: ../../shortcuts.rstext:229
 msgid "Preferences - Icon Vinyl Control"
-msgstr ""
+msgstr "设置 - 黑胶控制图标"
 
 #: ../../shortcuts.rstext:238
 msgid "Vinyl Control - Receives good signal"
-msgstr ""
+msgstr "黑胶控制 - 信号良好"
 
 #: ../../shortcuts.rstext:242
 msgid "Vinyl Control - Signal goes in wrong direction"
-msgstr ""
+msgstr "黑胶控制 - 信号方向错误"
 
 #: ../../shortcuts.rstext:246
 msgid "Vinyl Control - Receives no signal"
-msgstr ""
+msgstr "黑胶控制 - 无信号"
 
 #: ../../shortcuts.rstext:250
 msgid "Vinyl Control - Receives bad signal"
-msgstr ""
+msgstr "黑胶控制 - 信号质量差"
 
 #: ../../shortcuts.rstext:254
 msgid "Vinyl Control - No input configured"
-msgstr ""
+msgstr "黑胶控制 - 未配置输入"
 
 #: ../../shortcuts.rstext:258
 msgid "Vinyl Control - Receives no timecode signal"
-msgstr ""
+msgstr "黑胶控制 - 未接收到时码信号"
 
 #: ../../shortcuts.rstext:262
 msgid "Vinyl Control - Receives signal from wrong vinyl type"
-msgstr ""
+msgstr "黑胶控制 - 接收到错误类型黑胶的信号"
 
 #: ../../shortcuts.rstext:266
 msgid "Vinyl Control - Receives mono signal"
-msgstr ""
+msgstr "黑胶控制 - 接收到单声道信号"
 
 #: ../../shortcuts.rstext:270
 msgid "Vinyl Control - Receives too loud input signal"
-msgstr ""
+msgstr "黑胶控制 - 输入信号过强"
 
 #: ../../shortcuts.rstext:274
 msgid "Vinyl Control - Receives too quiet signal"
-msgstr ""
+msgstr "黑胶控制 - 输入信号过弱"
 
 #: ../../shortcuts.rstext:281
 msgid "logo"
-msgstr ""
+msgstr "徽标"
 
 #: ../../chapters/appendix/commandline_dev_tools.rst:6
 msgid "Launching Mixxx from the Command Line"
@@ -240,7 +241,7 @@ msgstr ""
 
 #: ../../chapters/appendix/commandline_dev_tools.rst:18
 msgid "**macOS**"
-msgstr ""
+msgstr "**macOS**"
 
 #: ../../chapters/appendix/commandline_dev_tools.rst:16
 msgid "Similarly, for macOS, the command will be ::"
@@ -302,118 +303,128 @@ msgid "Do not use OpenGL vu meter"
 msgstr ""
 
 #: ../../chapters/appendix/commandline_dev_tools.rst:51
+msgid "Do not use OpenGL spinnies"
+msgstr ""
+
+#: ../../chapters/appendix/commandline_dev_tools.rst:52
 msgid ""
 "Log all controller data Mixxx sends and receives as well as scripts it "
 "loads."
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:53
+#: ../../chapters/appendix/commandline_dev_tools.rst:54
 msgid ""
 "The controller mapping will issue more aggressive warnings and errors when "
 "detecting misuse of controller APIs. New Controller Mappings should be "
 "developed with this option enabled!"
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:58
+#: ../../chapters/appendix/commandline_dev_tools.rst:59
 msgid ""
 "Enable developer mode. Includes extra logs, stats on performance and the "
 "Developer tools menu as well as tooltips and logs useful for skin "
 "developers."
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:62
+#: ../../chapters/appendix/commandline_dev_tools.rst:63
 msgid ""
 "Disable OpenGL widgets (scrolling waveforms, spinnies) to work around GPU "
 "driver bugs. If Mixxx is crashing on startup, try using this."
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:66
+#: ../../chapters/appendix/commandline_dev_tools.rst:67
 msgid "Automatically loads empty waveforms"
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:67
+#: ../../chapters/appendix/commandline_dev_tools.rst:68
 msgid "Disables spinning vinyl widgets"
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:68
+#: ../../chapters/appendix/commandline_dev_tools.rst:69
 msgid "Disables synchronization polling"
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:69
+#: ../../chapters/appendix/commandline_dev_tools.rst:70
 msgid "Doesn't open controllers by default"
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:70
-msgid "[auto|always|never] Use colors on the console output."
+#: ../../chapters/appendix/commandline_dev_tools.rst:71
+msgid ""
+"Automatically start :ref:`Auto DJ<djing-auto-dj>` when Mixxx finished "
+"loading."
 msgstr ""
 
 #: ../../chapters/appendix/commandline_dev_tools.rst:72
-msgid "Use a custom locale for loading translations (e.g ``fr``)"
+msgid "[auto|always|never] Use colors on the console output."
 msgstr ""
 
 #: ../../chapters/appendix/commandline_dev_tools.rst:74
+msgid "Use a custom locale for loading translations (e.g ``fr``)"
+msgstr ""
+
+#: ../../chapters/appendix/commandline_dev_tools.rst:76
 msgid "Start Mixxx in full-screen mode."
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:75
+#: ../../chapters/appendix/commandline_dev_tools.rst:77
 msgid "Set the verbosity of command line logging."
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:78
+#: ../../chapters/appendix/commandline_dev_tools.rst:80
 msgid "Value"
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:78
+#: ../../chapters/appendix/commandline_dev_tools.rst:80
 msgid "Meaning"
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:80
+#: ../../chapters/appendix/commandline_dev_tools.rst:82
 msgid "``critical``"
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:80
+#: ../../chapters/appendix/commandline_dev_tools.rst:82
 msgid "Critical/Fatal only"
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:81
+#: ../../chapters/appendix/commandline_dev_tools.rst:83
 msgid "``warning``"
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:81
+#: ../../chapters/appendix/commandline_dev_tools.rst:83
 msgid "Above + Warnings"
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:82
+#: ../../chapters/appendix/commandline_dev_tools.rst:84
 msgid "``info``"
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:82
+#: ../../chapters/appendix/commandline_dev_tools.rst:84
 msgid "Above + Informational messages"
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:83
+#: ../../chapters/appendix/commandline_dev_tools.rst:85
 msgid "``debug``"
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:83
+#: ../../chapters/appendix/commandline_dev_tools.rst:85
 msgid "Above + Debug/Developer messages"
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:84
+#: ../../chapters/appendix/commandline_dev_tools.rst:86
 msgid "``trace``"
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:84
+#: ../../chapters/appendix/commandline_dev_tools.rst:86
 msgid "Above + Profiling messages"
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:86
+#: ../../chapters/appendix/commandline_dev_tools.rst:88
 msgid ""
 "Set the logging level at which the log buffer is flushed to ``mixxx.log``. "
 "``LEVEL`` is one of the values defined at ``--logLevel`` above."
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:90
+#: ../../chapters/appendix/commandline_dev_tools.rst:92
 msgid ""
 "Breaks (``SIGINT``) Mixxx if a ``DEBUG_ASSERT`` evaluates to false. A "
 "debugger can then be used to continue. This disables the "
@@ -421,32 +432,32 @@ msgid ""
 "consuming full rebuild."
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:95
+#: ../../chapters/appendix/commandline_dev_tools.rst:97
 msgid "Display this help message and exit"
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:98
+#: ../../chapters/appendix/commandline_dev_tools.rst:100
 msgid "Developer tools"
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:100
+#: ../../chapters/appendix/commandline_dev_tools.rst:102
 msgid ""
 "To start Mixxx in Developer mode with a custom resource directory with "
 ":term:`MIDI` and :term:`HID` logging enabled, type the following line into "
 "the terminal and hit return: ::"
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:108
+#: ../../chapters/appendix/commandline_dev_tools.rst:110
 msgid "Experiment modes for rapid development and testing"
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:110
+#: ../../chapters/appendix/commandline_dev_tools.rst:112
 msgid ""
 "Adds a static Experiment class with a tri-state mode flag that indicates "
 "whether the experiment mode is OFF, BASE, or EXPERIMENT."
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:113
+#: ../../chapters/appendix/commandline_dev_tools.rst:115
 msgid ""
 "Adds :menuselection:`Developer --> Stats:Experiment Bucket` and "
 ":menuselection:`Developer --> Stats:Base Bucket`. Each one toggles between "
@@ -454,14 +465,14 @@ msgid ""
 "like to collect in your base and experiment buckets."
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:118
+#: ../../chapters/appendix/commandline_dev_tools.rst:120
 msgid ""
 "Updates StatsManager to segment collected stats into a base and experiment "
 "bucket. This allows you to quickly measure the difference a code change has "
 "on relevant counters / timers within the same execution of Mixxx."
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:122
+#: ../../chapters/appendix/commandline_dev_tools.rst:124
 msgid ""
 "This is useful for quickly enabling and disabling a code change without a "
 "re-compile/re-run cycle to get an anecdotal sense of how it \"feels\" as "
@@ -469,7 +480,7 @@ msgid ""
 "collects."
 msgstr ""
 
-#: ../../chapters/appendix/commandline_dev_tools.rst:127
+#: ../../chapters/appendix/commandline_dev_tools.rst:129
 msgid ""
 "All stats collected via the usual Counter/Timer/ScopedTimer/etc. tools are "
 "segmented into a BASE STATS and EXPERIMENT STATS section printed to the log "
