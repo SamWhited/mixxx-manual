@@ -4,7 +4,7 @@ The Kontrol S4 MK3 is a 4 deck all-in-one controller with a sturdy build quality
 Compared to the MK2 and MK1, it also has shiny, motorised aluminum jogwheels, screens and a set of pads which can be used for
 various features.
 
-The S4 MK3 uses the standard :term:`HID` protocol for the buttons, knobs, faders and LEDs, and extends it for the motorized jogwheels.
+The S4 MK3 uses the standard {term}`HID` protocol for the buttons, knobs, faders and LEDs, and extends it for the motorized jogwheels.
 The screens use a USB Bulk transfer.
 The easiest way to tell the MK3 apart from the MK1 and Mk2 models are these screens, placed in between the "Move" and "Loop" encoders.
 
@@ -13,6 +13,9 @@ Unlike its predecessor, the Kontrol S4 Mk3 cannot run from {term}`USB` power and
 -  [Manufacturer’s product page](https://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-s4/)
 
 :::{versionadded} 2.4
+:::
+:::{versionchanged} 2.7.0
+   Added support for screens
 :::
 :::{versionchanged} 2.6.0
    Added beatjump
@@ -58,9 +61,17 @@ this was specific to the used setup.
 The controller screens are supported, but they require a little bit of tinkering. Due to the legacy controller engine, the screen are driven by a separate mapping, which will have to be set
 independently of the controller mapping.
 
-   :::{note}
-   The screens rendering is done using QML and the communication is achieved via BULK USB endpoint. Both of these features are not available out of the box on Windows and Mac for now.
-   :::
+  :::{note}
+  The screens rendering is done using QML and the communication is achieved via BULK USB endpoint. Both of these features are not available out of the box on Windows and Mac for now.
+  :::
+
+
+By default, the screens are standalone. This means that local state changes such as deck selection or shifting will not trigger any screen interaction,
+and thus you should expect only Deck A and B to be displayed on these screen by default, although this can be changed in the controller settings.
+
+  :::{note}
+  It exists an API that was temporarily parked that allows mappings to communicate. If you want, you may [download pre-built binaries](https://github.com/acolombier/mixxx/actions/runs/13751974244?pr=10) or build a version of Mixxx with [this feature](https://github.com/acolombier/mixxx/pull/10) and it should automatically work on the controller.
+  :::
 
 (use-motors)=
 
@@ -420,9 +431,8 @@ Here is how to tell use each modes:
 
 ## Mapping options
 
+There are various options that can be used to change some behavior.
 Settings can be edited in the preference windows, under {guilabel}`Preferences` > {guilabel}`Controllers` > {guilabel}`Traktor Kontrol S4 MK3 ...`.
-
-There are various options that can be used to change some behavior:
 
 ```{list-table}
 :header-rows: 1
@@ -481,6 +491,9 @@ There are various options that can be used to change some behavior:
 * - Replace the sampler tab by a beatloop roll tab
   - false
   - Replace the sample tab as well of the sample feature with 8 beatloop roll
+* - {hwlabel}`FILTER` is first quick effect
+  - false
+  - Assign the first quick effect to the {hwlabel}`FILTER` button instead of button {hwlabel}`1`. This option is useful if you are used to Filter being the primary quick effect and have it at the top of your quick effect list.
 * - Define the predefined size to use for the beatjump tab
   - 1, 2, 4, 8, 16, 32, 64, beatjump
   - Define the size of beatjumps of each pad, from left to right, starting from the top row. "beatjump" refers the currently selected value (beatjump_forward or beatjump_backward), "half" and "double" can be used to control this value
@@ -510,7 +523,7 @@ There are various options that can be used to change some behavior:
   - Define the default layout used for the pads.
 ```
 
-This settings are only useful if you are using haptic feedback features
+These settings are only useful if you are using haptic feedback features
 
 ```{list-table}
 :header-rows: 1
@@ -528,7 +541,3 @@ This settings are only useful if you are using haptic feedback features
   - 25000
   - Define how much resistance can the wheel use when its rotation is held
 ```
-
-### Changing settings
-
-Settings can be edited in the preference windows, under {guilabel}`Preferences` > {guilabel}`Controllers` > {guilabel}`Traktor Kontrol S4 MK3 ...`.
