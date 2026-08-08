@@ -70,7 +70,7 @@ By default, the screens are standalone. This means that local state changes such
 and thus you should expect only Deck A and B to be displayed on these screen by default, although this can be changed in the controller settings.
 
   :::{note}
-  It exists an API that was temporarily parked that allows mappings to communicate. If you want, you may [download pre-built binaries](https://github.com/acolombier/mixxx/actions/runs/13751974244?pr=10) or build a version of Mixxx with [this feature](https://github.com/acolombier/mixxx/pull/10) and it should automatically work on the controller.
+  It exists an API that was temporarily parked that allows mappings to communicate. If you want, you may build a version of Mixxx with [this feature](https://github.com/acolombier/mixxx/pull/10) and it should automatically work on the controller.
   :::
 
 (use-motors)=
